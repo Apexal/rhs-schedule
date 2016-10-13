@@ -13,6 +13,8 @@ class Period
     "#{@course_title} in #{@location} for #{duration} minutes"
   end
 
+  # Returns the duration of the period in minutes
+  # @return [Integer] duration in minutes
   def duration
     ((@end_time - @start_time) * 24 * 60).to_i
   end

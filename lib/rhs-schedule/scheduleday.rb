@@ -9,14 +9,6 @@ class ScheduleDay
     @periods = periods
   end
 
-  def add_period(period)
-    @periods << period
-  end
-
-  def sort_periods
-    @periods.sort! { |a, b| a.start_time <=> b.start_time }
-  end
-
   def to_s
     to_return = ["#{@schedule_day}-Day: #{@periods.length} periods"]
     @periods.each do |p|
@@ -26,4 +18,13 @@ class ScheduleDay
 
     to_return.join("\n")
   end
+
+  private
+    def add_period(period)
+      @periods << period
+    end
+
+    def sort_periods
+      @periods.sort! { |a, b| a.start_time <=> b.start_time }
+    end
 end
