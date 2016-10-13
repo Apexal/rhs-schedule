@@ -4,7 +4,7 @@ require 'json'
 require_relative 'rhs-schedule/scheduleday'
 require_relative 'rhs-schedule/period'
 
-VERSION = '0.1.0'.freeze
+VERSION = '0.2.0'.freeze
 
 # 05/25/16 08:50 AM
 DATE_FORMAT = '%m/%d/%y'.freeze
