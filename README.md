@@ -1,4 +1,4 @@
-# better-schedule
+# rhs-schedule
 A RubyGem that can parse the Regis Intranet schedule download so that it can be used in programs (such as displaying it correctly).
 
 ## How to Use
