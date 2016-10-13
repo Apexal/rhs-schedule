@@ -12,3 +12,4 @@ schedule = ScheduleSystem.new 'path/to/schedule.txt'
 # Check out the wiki to see how to use it!
 puts schedule.today
 ```
+**Documentation is available at [http://www.rubydoc.info/github/Apexal/rhs-schedule/master/](http://www.rubydoc.info/github/Apexal/rhs-schedule/master/)**
