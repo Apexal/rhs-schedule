@@ -3,6 +3,7 @@ require 'json'
 
 require_relative 'rhs-schedule/scheduleday'
 require_relative 'rhs-schedule/period'
+require_relative 'rhs-schedule/exports'
 
 VERSION = '0.2.0'.freeze
 
@@ -13,10 +14,12 @@ DATETIME_FORMAT = "#{DATE_FORMAT} #{TIME_FORMAT}".freeze
 EXCEPTIONS = ['0', '1', '2', '3', 'WEBEIM Scheduled', 'SIS Scheduled'].freeze
 
 class ScheduleSystem
+  include Exports
+
   attr_reader :schedule_days
 
-  # Creates a new ScheduleSystem by parsing the schedule text file passed to it
-  # If it cannot read the file the program aborts
+  # Creates a new ScheduleSystem by parsing the schedule text file passed to it. 
+  # If it cannot read the file the program aborts.
   #
   # @param path [String] the path to the text file (not the folder!) 
   def initialize(path)
@@ -27,6 +30,7 @@ class ScheduleSystem
     @classdays = []
     @schedule_days = {}
     parse
+    super(@schedule) # Initialize the exports with the parsed schedule
   end
 
   # Gets the schedule day of the date passed.
@@ -42,14 +46,14 @@ class ScheduleSystem
     end
   end
 
-  # Displays formatted info on the current day, including it's schedule day and classes in order
+  # Displays formatted info on the current day, including it's schedule day and classes in order.
   def today
     #false_date = Date.strptime('05/20/16', DATE_FORMAT)
     @classdays.find { |cd| cd.schedule_day == @schedule_days[Date.parse(Time.now.to_s)]}
     #@classdays.find { |cd| cd.schedule_day == @schedule_days[false_date] }
   end
 
-  # Outputs a JSON object of all class days and their schedule days into the given file
+  # Outputs a JSON object of all class days and their schedule days into the given file.
   #
   # @param path [String] the file path
   def to_json(path)
@@ -60,7 +64,7 @@ class ScheduleSystem
   end
 
   private
-    # Reads the schedule text file and parses each line to decide periods and schedule days
+    # Reads the schedule text file and parses each line to decide periods and schedule days.
     def parse
       sds = [] # Schedule day lines
       ps = [] # Period lines
@@ -146,4 +150,6 @@ class ScheduleSystem
       filled << Period.new('Afternoon Advisement', DateTime.strptime('2:50 PM', TIME_FORMAT), DateTime.strptime('3:00 PM', TIME_FORMAT), 'Advisement')
       day.periods = filled
     end
+
+    
 end

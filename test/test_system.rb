@@ -1,7 +1,7 @@
 require 'minitest/autorun'
 
 class SystemTest < Minitest::Test
-    def test_path
+    def test_parse
         
     end
 end

@@ -1,5 +1,7 @@
 .vscode/
 
+generate_pdf.rb
+
 *.gem
 *.rbc
 /.config
