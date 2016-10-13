@@ -1,0 +1,1081 @@
+Start Date	Start Time	End Date	End Time	Subject	Location	All day event	Reminder on/off	Show time as	Categories
+09/14/15	08:50 AM	09/14/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+09/14/15	09:50 AM	09/14/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+09/14/15	10:30 AM	09/14/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+09/14/15	12:10 PM	09/14/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+09/14/15	01:10 PM	09/14/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+09/14/15	02:10 PM	09/14/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+09/15/15	08:50 AM	09/15/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+09/15/15	09:10 AM	09/15/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+09/15/15	09:50 AM	09/15/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+09/15/15	10:30 AM	09/15/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+09/15/15	12:10 PM	09/15/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+09/15/15	12:50 PM	09/15/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+09/16/15	08:50 AM	09/16/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+09/16/15	09:30 AM	09/16/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+09/16/15	10:50 AM	09/16/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+09/16/15	12:10 PM	09/16/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+09/16/15	12:50 PM	09/16/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+09/16/15	01:30 PM	09/16/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+09/17/15	08:50 AM	09/17/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+09/17/15	09:50 AM	09/17/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+09/17/15	10:30 AM	09/17/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+09/17/15	12:10 PM	09/17/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+09/17/15	12:50 PM	09/17/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+09/17/15	01:30 PM	09/17/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+09/17/15	02:10 PM	09/17/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+09/21/15	08:50 AM	09/21/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+09/21/15	09:30 AM	09/21/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+09/21/15	10:10 AM	09/21/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+09/21/15	10:50 AM	09/21/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+09/21/15	12:10 PM	09/21/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+09/21/15	01:10 PM	09/21/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+09/21/15	02:10 PM	09/21/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+09/22/15	08:50 AM	09/22/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+09/22/15	09:50 AM	09/22/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+09/22/15	10:30 AM	09/22/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+09/22/15	12:10 PM	09/22/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+09/22/15	01:10 PM	09/22/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+09/22/15	02:10 PM	09/22/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+09/23/15	08:50 AM	09/23/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+09/23/15	09:10 AM	09/23/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+09/23/15	09:50 AM	09/23/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+09/23/15	10:30 AM	09/23/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+09/23/15	12:10 PM	09/23/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+09/23/15	12:50 PM	09/23/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+09/24/15	08:50 AM	09/24/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+09/24/15	09:30 AM	09/24/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+09/24/15	10:50 AM	09/24/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+09/24/15	12:10 PM	09/24/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+09/24/15	12:50 PM	09/24/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+09/24/15	01:30 PM	09/24/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+09/25/15	08:50 AM	09/25/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+09/25/15	09:50 AM	09/25/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+09/25/15	10:30 AM	09/25/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+09/25/15	12:10 PM	09/25/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+09/25/15	12:50 PM	09/25/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+09/25/15	01:30 PM	09/25/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+09/25/15	02:10 PM	09/25/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+09/28/15	08:50 AM	09/28/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+09/28/15	09:30 AM	09/28/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+09/28/15	10:10 AM	09/28/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+09/28/15	10:50 AM	09/28/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+09/28/15	12:10 PM	09/28/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+09/28/15	01:10 PM	09/28/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+09/28/15	02:10 PM	09/28/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+09/29/15	08:50 AM	09/29/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+09/29/15	09:50 AM	09/29/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+09/29/15	10:30 AM	09/29/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+09/29/15	12:10 PM	09/29/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+09/29/15	01:10 PM	09/29/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+09/29/15	02:10 PM	09/29/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+09/30/15	08:50 AM	09/30/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+09/30/15	09:10 AM	09/30/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+09/30/15	09:50 AM	09/30/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+09/30/15	10:30 AM	09/30/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+09/30/15	12:10 PM	09/30/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+09/30/15	12:50 PM	09/30/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+10/01/15	08:50 AM	10/01/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+10/01/15	09:30 AM	10/01/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+10/01/15	10:50 AM	10/01/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/01/15	12:10 PM	10/01/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+10/01/15	12:50 PM	10/01/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+10/01/15	01:30 PM	10/01/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/02/15	08:50 AM	10/02/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+10/02/15	09:50 AM	10/02/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+10/02/15	10:30 AM	10/02/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+10/02/15	12:10 PM	10/02/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+10/02/15	12:50 PM	10/02/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+10/02/15	01:30 PM	10/02/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+10/02/15	02:10 PM	10/02/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+10/05/15	08:50 AM	10/05/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/05/15	09:30 AM	10/05/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+10/05/15	10:10 AM	10/05/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+10/05/15	10:50 AM	10/05/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+10/05/15	12:10 PM	10/05/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+10/05/15	01:10 PM	10/05/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+10/05/15	02:10 PM	10/05/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+10/06/15	08:50 AM	10/06/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+10/06/15	09:50 AM	10/06/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/06/15	10:30 AM	10/06/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+10/06/15	12:10 PM	10/06/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+10/06/15	01:10 PM	10/06/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+10/06/15	02:10 PM	10/06/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+10/07/15	08:50 AM	10/07/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+10/07/15	09:10 AM	10/07/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/07/15	09:50 AM	10/07/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/07/15	10:30 AM	10/07/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+10/07/15	12:10 PM	10/07/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+10/07/15	12:50 PM	10/07/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+10/08/15	08:50 AM	10/08/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+10/08/15	09:30 AM	10/08/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+10/08/15	10:50 AM	10/08/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/08/15	12:10 PM	10/08/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+10/08/15	12:50 PM	10/08/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+10/08/15	01:30 PM	10/08/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/09/15	08:50 AM	10/09/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+10/09/15	09:50 AM	10/09/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+10/09/15	10:30 AM	10/09/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+10/09/15	12:10 PM	10/09/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+10/09/15	12:50 PM	10/09/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+10/09/15	01:30 PM	10/09/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+10/09/15	02:10 PM	10/09/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+10/13/15	08:50 AM	10/13/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/13/15	09:30 AM	10/13/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+10/13/15	10:10 AM	10/13/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+10/13/15	10:50 AM	10/13/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+10/13/15	12:10 PM	10/13/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+10/13/15	01:10 PM	10/13/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+10/13/15	02:10 PM	10/13/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+10/15/15	08:50 AM	10/15/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+10/15/15	09:50 AM	10/15/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/15/15	10:30 AM	10/15/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+10/15/15	12:10 PM	10/15/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+10/15/15	01:10 PM	10/15/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+10/15/15	02:10 PM	10/15/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+10/16/15	08:50 AM	10/16/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+10/16/15	09:10 AM	10/16/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/16/15	09:50 AM	10/16/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/16/15	10:30 AM	10/16/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+10/16/15	12:10 PM	10/16/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+10/16/15	12:50 PM	10/16/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+10/19/15	08:50 AM	10/19/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+10/19/15	09:30 AM	10/19/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+10/19/15	10:50 AM	10/19/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/19/15	12:10 PM	10/19/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+10/19/15	12:50 PM	10/19/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+10/19/15	01:30 PM	10/19/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/20/15	08:50 AM	10/20/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+10/20/15	09:50 AM	10/20/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+10/20/15	10:30 AM	10/20/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+10/20/15	12:10 PM	10/20/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+10/20/15	12:50 PM	10/20/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+10/20/15	01:30 PM	10/20/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+10/20/15	02:10 PM	10/20/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+10/21/15	08:50 AM	10/21/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/21/15	09:30 AM	10/21/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+10/21/15	10:10 AM	10/21/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+10/21/15	10:50 AM	10/21/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+10/21/15	12:10 PM	10/21/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+10/21/15	01:10 PM	10/21/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+10/21/15	02:10 PM	10/21/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+10/22/15	08:50 AM	10/22/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+10/22/15	09:50 AM	10/22/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/22/15	10:30 AM	10/22/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+10/22/15	12:10 PM	10/22/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+10/22/15	01:10 PM	10/22/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+10/22/15	02:10 PM	10/22/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+10/23/15	08:50 AM	10/23/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+10/23/15	09:10 AM	10/23/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/23/15	09:50 AM	10/23/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/23/15	10:30 AM	10/23/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+10/23/15	12:10 PM	10/23/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+10/23/15	12:50 PM	10/23/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+10/26/15	08:50 AM	10/26/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+10/26/15	09:30 AM	10/26/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+10/26/15	10:50 AM	10/26/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/26/15	12:10 PM	10/26/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+10/26/15	12:50 PM	10/26/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+10/26/15	01:30 PM	10/26/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+10/27/15	08:50 AM	10/27/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+10/27/15	09:50 AM	10/27/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+10/27/15	10:30 AM	10/27/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+10/27/15	12:10 PM	10/27/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+10/27/15	12:50 PM	10/27/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+10/27/15	01:30 PM	10/27/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+10/27/15	02:10 PM	10/27/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+10/28/15	08:50 AM	10/28/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/28/15	09:30 AM	10/28/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+10/28/15	10:10 AM	10/28/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+10/28/15	10:50 AM	10/28/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+10/28/15	12:10 PM	10/28/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+10/28/15	01:10 PM	10/28/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+10/28/15	02:10 PM	10/28/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+10/29/15	08:50 AM	10/29/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+10/29/15	09:50 AM	10/29/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+10/29/15	10:30 AM	10/29/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+10/29/15	12:10 PM	10/29/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+10/29/15	01:10 PM	10/29/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+10/29/15	02:10 PM	10/29/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+11/02/15	08:50 AM	11/02/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+11/02/15	09:10 AM	11/02/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/02/15	09:50 AM	11/02/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/02/15	10:30 AM	11/02/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+11/02/15	12:10 PM	11/02/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+11/02/15	12:50 PM	11/02/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+11/03/15	08:50 AM	11/03/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+11/03/15	09:30 AM	11/03/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+11/03/15	10:50 AM	11/03/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/03/15	12:10 PM	11/03/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+11/03/15	12:50 PM	11/03/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+11/03/15	01:30 PM	11/03/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/04/15	08:50 AM	11/04/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+11/04/15	09:50 AM	11/04/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+11/04/15	10:30 AM	11/04/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+11/04/15	12:10 PM	11/04/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+11/04/15	12:50 PM	11/04/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+11/04/15	01:30 PM	11/04/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+11/04/15	02:10 PM	11/04/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+11/05/15	08:50 AM	11/05/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+11/05/15	09:50 AM	11/05/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/05/15	10:30 AM	11/05/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+11/05/15	12:10 PM	11/05/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+11/05/15	01:10 PM	11/05/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+11/05/15	02:10 PM	11/05/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+11/06/15	08:50 AM	11/06/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/06/15	09:30 AM	11/06/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+11/06/15	10:10 AM	11/06/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+11/06/15	10:50 AM	11/06/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+11/06/15	12:10 PM	11/06/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+11/06/15	01:10 PM	11/06/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+11/06/15	02:10 PM	11/06/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+11/09/15	08:50 AM	11/09/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+11/09/15	09:10 AM	11/09/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/09/15	09:50 AM	11/09/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/09/15	10:30 AM	11/09/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+11/09/15	12:10 PM	11/09/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+11/09/15	12:50 PM	11/09/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+11/10/15	08:50 AM	11/10/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+11/10/15	09:30 AM	11/10/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+11/10/15	10:50 AM	11/10/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/10/15	12:10 PM	11/10/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+11/10/15	12:50 PM	11/10/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+11/10/15	01:30 PM	11/10/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/12/15	08:50 AM	11/12/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+11/12/15	09:50 AM	11/12/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+11/12/15	10:30 AM	11/12/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+11/12/15	12:10 PM	11/12/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+11/12/15	12:50 PM	11/12/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+11/12/15	01:30 PM	11/12/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+11/12/15	02:10 PM	11/12/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+11/13/15	08:50 AM	11/13/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/13/15	09:30 AM	11/13/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+11/13/15	10:10 AM	11/13/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+11/13/15	10:50 AM	11/13/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+11/13/15	12:10 PM	11/13/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+11/13/15	01:10 PM	11/13/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+11/13/15	02:10 PM	11/13/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+11/16/15	08:50 AM	11/16/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+11/16/15	09:50 AM	11/16/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/16/15	10:30 AM	11/16/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+11/16/15	12:10 PM	11/16/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+11/16/15	01:10 PM	11/16/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+11/16/15	02:10 PM	11/16/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+11/17/15	08:50 AM	11/17/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+11/17/15	09:10 AM	11/17/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/17/15	09:50 AM	11/17/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/17/15	10:30 AM	11/17/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+11/17/15	12:10 PM	11/17/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+11/17/15	12:50 PM	11/17/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+11/18/15	08:50 AM	11/18/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+11/18/15	09:30 AM	11/18/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+11/18/15	10:50 AM	11/18/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/18/15	12:10 PM	11/18/15	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+11/18/15	12:50 PM	11/18/15	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+11/18/15	01:30 PM	11/18/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/19/15	08:50 AM	11/19/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+11/19/15	09:50 AM	11/19/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+11/19/15	10:30 AM	11/19/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+11/19/15	12:10 PM	11/19/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+11/19/15	12:50 PM	11/19/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+11/19/15	01:30 PM	11/19/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+11/19/15	02:10 PM	11/19/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+11/20/15	08:50 AM	11/20/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/20/15	09:30 AM	11/20/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+11/20/15	10:10 AM	11/20/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+11/20/15	10:50 AM	11/20/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+11/20/15	12:10 PM	11/20/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+11/20/15	01:10 PM	11/20/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+11/20/15	02:10 PM	11/20/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+11/23/15	08:50 AM	11/23/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+11/23/15	09:10 AM	11/23/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/23/15	09:50 AM	11/23/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+11/23/15	10:30 AM	11/23/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+11/23/15	12:10 PM	11/23/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+11/23/15	12:50 PM	11/23/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+11/24/15	08:50 AM	11/24/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+11/24/15	09:50 AM	11/24/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+11/24/15	10:30 AM	11/24/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+11/24/15	12:10 PM	11/24/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+11/24/15	01:10 PM	11/24/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+11/24/15	02:10 PM	11/24/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+12/01/15	08:50 AM	12/01/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+12/01/15	09:30 AM	12/01/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+12/01/15	10:50 AM	12/01/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+12/01/15	12:10 PM	12/01/15	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+12/01/15	12:50 PM	12/01/15	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+12/01/15	01:30 PM	12/01/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+12/02/15	08:50 AM	12/02/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+12/02/15	09:50 AM	12/02/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+12/02/15	10:30 AM	12/02/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+12/02/15	12:10 PM	12/02/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+12/02/15	12:50 PM	12/02/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+12/02/15	01:30 PM	12/02/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+12/02/15	02:10 PM	12/02/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+12/03/15	08:50 AM	12/03/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+12/03/15	09:30 AM	12/03/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+12/03/15	10:10 AM	12/03/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+12/03/15	10:50 AM	12/03/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+12/03/15	12:10 PM	12/03/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+12/03/15	01:10 PM	12/03/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+12/03/15	02:10 PM	12/03/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+12/04/15	08:50 AM	12/04/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+12/04/15	09:50 AM	12/04/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+12/04/15	10:30 AM	12/04/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+12/04/15	12:10 PM	12/04/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+12/04/15	01:10 PM	12/04/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+12/04/15	02:10 PM	12/04/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+12/07/15	08:50 AM	12/07/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+12/07/15	09:10 AM	12/07/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+12/07/15	09:50 AM	12/07/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+12/07/15	10:30 AM	12/07/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+12/07/15	12:10 PM	12/07/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+12/07/15	12:50 PM	12/07/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+12/09/15	08:50 AM	12/09/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+12/09/15	09:30 AM	12/09/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+12/09/15	10:50 AM	12/09/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+12/09/15	12:10 PM	12/09/15	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+12/09/15	12:50 PM	12/09/15	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+12/09/15	01:30 PM	12/09/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+12/10/15	08:50 AM	12/10/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+12/10/15	09:50 AM	12/10/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+12/10/15	10:30 AM	12/10/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+12/10/15	12:10 PM	12/10/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+12/10/15	12:50 PM	12/10/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+12/10/15	01:30 PM	12/10/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+12/10/15	02:10 PM	12/10/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+12/11/15	08:50 AM	12/11/15	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+12/11/15	09:30 AM	12/11/15	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+12/11/15	10:10 AM	12/11/15	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+12/11/15	10:50 AM	12/11/15	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+12/11/15	12:10 PM	12/11/15	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+12/11/15	01:10 PM	12/11/15	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+12/11/15	02:10 PM	12/11/15	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+12/14/15	08:50 AM	12/14/15	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+12/14/15	09:50 AM	12/14/15	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+12/14/15	10:30 AM	12/14/15	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+12/14/15	12:10 PM	12/14/15	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+12/14/15	01:10 PM	12/14/15	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+12/14/15	02:10 PM	12/14/15	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+12/15/15	08:50 AM	12/15/15	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+12/15/15	09:10 AM	12/15/15	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+12/15/15	09:50 AM	12/15/15	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+12/15/15	10:30 AM	12/15/15	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+12/15/15	12:10 PM	12/15/15	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+12/15/15	12:50 PM	12/15/15	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+12/16/15	08:50 AM	12/16/15	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+12/16/15	09:30 AM	12/16/15	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+12/16/15	10:50 AM	12/16/15	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+12/16/15	12:10 PM	12/16/15	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+12/16/15	12:50 PM	12/16/15	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+12/16/15	01:30 PM	12/16/15	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+12/17/15	08:50 AM	12/17/15	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+12/17/15	09:50 AM	12/17/15	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+12/17/15	10:30 AM	12/17/15	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+12/17/15	12:10 PM	12/17/15	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+12/17/15	12:50 PM	12/17/15	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+12/17/15	01:30 PM	12/17/15	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+12/17/15	02:10 PM	12/17/15	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+01/04/16	08:50 AM	01/04/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/04/16	09:30 AM	01/04/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+01/04/16	10:10 AM	01/04/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+01/04/16	10:50 AM	01/04/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+01/04/16	12:10 PM	01/04/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+01/04/16	01:10 PM	01/04/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+01/04/16	02:10 PM	01/04/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+01/05/16	08:50 AM	01/05/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+01/05/16	09:10 AM	01/05/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/05/16	09:50 AM	01/05/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/05/16	10:30 AM	01/05/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+01/05/16	12:10 PM	01/05/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+01/05/16	12:50 PM	01/05/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+01/06/16	08:50 AM	01/06/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+01/06/16	09:50 AM	01/06/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/06/16	10:30 AM	01/06/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+01/06/16	12:10 PM	01/06/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+01/06/16	01:10 PM	01/06/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+01/06/16	02:10 PM	01/06/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+01/07/16	08:50 AM	01/07/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+01/07/16	09:30 AM	01/07/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+01/07/16	10:50 AM	01/07/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/07/16	12:10 PM	01/07/16	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+01/07/16	12:50 PM	01/07/16	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+01/07/16	01:30 PM	01/07/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/08/16	08:50 AM	01/08/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+01/08/16	09:50 AM	01/08/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+01/08/16	10:30 AM	01/08/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+01/08/16	12:10 PM	01/08/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+01/08/16	12:50 PM	01/08/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+01/08/16	01:30 PM	01/08/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+01/08/16	02:10 PM	01/08/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+01/11/16	08:50 AM	01/11/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/11/16	09:30 AM	01/11/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+01/11/16	10:10 AM	01/11/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+01/11/16	10:50 AM	01/11/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+01/11/16	12:10 PM	01/11/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+01/11/16	01:10 PM	01/11/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+01/11/16	02:10 PM	01/11/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+01/12/16	08:50 AM	01/12/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+01/12/16	09:50 AM	01/12/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/12/16	10:30 AM	01/12/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+01/12/16	12:10 PM	01/12/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+01/12/16	01:10 PM	01/12/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+01/12/16	02:10 PM	01/12/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+01/13/16	08:50 AM	01/13/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+01/13/16	09:10 AM	01/13/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/13/16	09:50 AM	01/13/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/13/16	10:30 AM	01/13/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+01/13/16	12:10 PM	01/13/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+01/13/16	12:50 PM	01/13/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+01/14/16	08:50 AM	01/14/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+01/14/16	09:30 AM	01/14/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+01/14/16	10:50 AM	01/14/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/14/16	12:10 PM	01/14/16	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+01/14/16	12:50 PM	01/14/16	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+01/14/16	01:30 PM	01/14/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/15/16	08:50 AM	01/15/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+01/15/16	09:50 AM	01/15/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+01/15/16	10:30 AM	01/15/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+01/15/16	12:10 PM	01/15/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+01/15/16	12:50 PM	01/15/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+01/15/16	01:30 PM	01/15/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+01/15/16	02:10 PM	01/15/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+01/19/16	08:50 AM	01/19/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/19/16	09:30 AM	01/19/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+01/19/16	10:10 AM	01/19/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+01/19/16	10:50 AM	01/19/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+01/19/16	12:10 PM	01/19/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+01/19/16	01:10 PM	01/19/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+01/19/16	02:10 PM	01/19/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+01/20/16	08:50 AM	01/20/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+01/20/16	09:50 AM	01/20/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/20/16	10:30 AM	01/20/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+01/20/16	12:10 PM	01/20/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+01/20/16	01:10 PM	01/20/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+01/20/16	02:10 PM	01/20/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+01/21/16	08:50 AM	01/21/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+01/21/16	09:10 AM	01/21/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/21/16	09:50 AM	01/21/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/21/16	10:30 AM	01/21/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+01/21/16	12:10 PM	01/21/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+01/21/16	12:50 PM	01/21/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+01/22/16	08:50 AM	01/22/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+01/22/16	09:30 AM	01/22/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+01/22/16	10:50 AM	01/22/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/22/16	12:10 PM	01/22/16	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+01/22/16	12:50 PM	01/22/16	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+01/22/16	01:30 PM	01/22/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/25/16	08:50 AM	01/25/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+01/25/16	09:50 AM	01/25/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+01/25/16	10:30 AM	01/25/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+01/25/16	12:10 PM	01/25/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+01/25/16	12:50 PM	01/25/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+01/25/16	01:30 PM	01/25/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+01/25/16	02:10 PM	01/25/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+01/26/16	08:50 AM	01/26/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/26/16	09:30 AM	01/26/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+01/26/16	10:10 AM	01/26/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+01/26/16	10:50 AM	01/26/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+01/26/16	12:10 PM	01/26/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+01/26/16	01:10 PM	01/26/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+01/26/16	02:10 PM	01/26/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+01/27/16	08:50 AM	01/27/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+01/27/16	09:50 AM	01/27/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/27/16	10:30 AM	01/27/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+01/27/16	12:10 PM	01/27/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+01/27/16	01:10 PM	01/27/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+01/27/16	02:10 PM	01/27/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+01/28/16	08:50 AM	01/28/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+01/28/16	09:10 AM	01/28/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/28/16	09:50 AM	01/28/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+01/28/16	10:30 AM	01/28/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+01/28/16	12:10 PM	01/28/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+01/28/16	12:50 PM	01/28/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+01/29/16	08:50 AM	01/29/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+01/29/16	09:30 AM	01/29/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+01/29/16	10:50 AM	01/29/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+01/29/16	12:10 PM	01/29/16	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+01/29/16	12:50 PM	01/29/16	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+01/29/16	01:30 PM	01/29/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/01/16	08:50 AM	02/01/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+02/01/16	09:50 AM	02/01/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+02/01/16	10:30 AM	02/01/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+02/01/16	12:10 PM	02/01/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+02/01/16	12:50 PM	02/01/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+02/01/16	01:30 PM	02/01/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+02/01/16	02:10 PM	02/01/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+02/02/16	08:50 AM	02/02/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/02/16	09:30 AM	02/02/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+02/02/16	10:10 AM	02/02/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+02/02/16	10:50 AM	02/02/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+02/02/16	12:10 PM	02/02/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+02/02/16	01:10 PM	02/02/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+02/02/16	02:10 PM	02/02/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+02/03/16	08:50 AM	02/03/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+02/03/16	09:50 AM	02/03/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/03/16	10:30 AM	02/03/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+02/03/16	12:10 PM	02/03/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+02/03/16	01:10 PM	02/03/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+02/03/16	02:10 PM	02/03/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+02/04/16	08:50 AM	02/04/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+02/04/16	09:10 AM	02/04/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/04/16	09:50 AM	02/04/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/04/16	10:30 AM	02/04/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+02/04/16	12:10 PM	02/04/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+02/04/16	12:50 PM	02/04/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+02/05/16	08:50 AM	02/05/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+02/05/16	09:30 AM	02/05/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+02/05/16	10:50 AM	02/05/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/05/16	12:10 PM	02/05/16	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+02/05/16	12:50 PM	02/05/16	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+02/05/16	01:30 PM	02/05/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/08/16	08:50 AM	02/08/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+02/08/16	09:50 AM	02/08/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+02/08/16	10:30 AM	02/08/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+02/08/16	12:10 PM	02/08/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+02/08/16	12:50 PM	02/08/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+02/08/16	01:30 PM	02/08/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+02/08/16	02:10 PM	02/08/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+02/09/16	08:50 AM	02/09/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/09/16	09:30 AM	02/09/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+02/09/16	10:10 AM	02/09/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+02/09/16	10:50 AM	02/09/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+02/09/16	12:10 PM	02/09/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+02/09/16	01:10 PM	02/09/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+02/09/16	02:10 PM	02/09/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+02/10/16	08:50 AM	02/10/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+02/10/16	09:50 AM	02/10/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/10/16	10:30 AM	02/10/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+02/10/16	12:10 PM	02/10/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+02/10/16	01:10 PM	02/10/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+02/10/16	02:10 PM	02/10/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+02/11/16	08:50 AM	02/11/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+02/11/16	09:10 AM	02/11/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/11/16	09:50 AM	02/11/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/11/16	10:30 AM	02/11/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+02/11/16	12:10 PM	02/11/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+02/11/16	12:50 PM	02/11/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+02/12/16	08:50 AM	02/12/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+02/12/16	09:30 AM	02/12/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+02/12/16	10:50 AM	02/12/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/12/16	12:10 PM	02/12/16	12:50 PM	Health Education (2B-1) Donodeo	501	0	0	2	WEBEIM Scheduled
+02/12/16	12:50 PM	02/12/16	01:30 PM	Chemistry 10 (2B) Humora	412	0	0	2	WEBEIM Scheduled
+02/12/16	01:30 PM	02/12/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/22/16	08:50 AM	02/22/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+02/22/16	09:50 AM	02/22/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+02/22/16	10:30 AM	02/22/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+02/22/16	12:10 PM	02/22/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+02/22/16	12:50 PM	02/22/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+02/22/16	01:30 PM	02/22/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+02/22/16	02:10 PM	02/22/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+02/23/16	08:50 AM	02/23/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/23/16	09:30 AM	02/23/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+02/23/16	10:10 AM	02/23/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+02/23/16	10:50 AM	02/23/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+02/23/16	12:10 PM	02/23/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+02/23/16	01:10 PM	02/23/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+02/23/16	02:10 PM	02/23/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+02/24/16	08:50 AM	02/24/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+02/24/16	09:50 AM	02/24/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/24/16	10:30 AM	02/24/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+02/24/16	12:10 PM	02/24/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+02/24/16	01:10 PM	02/24/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+02/24/16	02:10 PM	02/24/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+02/25/16	08:50 AM	02/25/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+02/25/16	09:10 AM	02/25/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/25/16	09:50 AM	02/25/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/25/16	10:30 AM	02/25/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+02/25/16	12:10 PM	02/25/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+02/25/16	12:50 PM	02/25/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+02/26/16	08:50 AM	02/26/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+02/26/16	09:30 AM	02/26/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+02/26/16	10:50 AM	02/26/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+02/26/16	12:10 PM	02/26/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+02/26/16	12:50 PM	02/26/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+02/26/16	01:30 PM	02/26/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+02/29/16	08:50 AM	02/29/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+02/29/16	09:50 AM	02/29/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+02/29/16	10:30 AM	02/29/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+02/29/16	12:10 PM	02/29/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+02/29/16	12:50 PM	02/29/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+02/29/16	01:30 PM	02/29/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+02/29/16	02:10 PM	02/29/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+03/01/16	08:50 AM	03/01/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/01/16	09:30 AM	03/01/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+03/01/16	10:10 AM	03/01/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+03/01/16	10:50 AM	03/01/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+03/01/16	12:10 PM	03/01/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+03/01/16	01:10 PM	03/01/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+03/01/16	02:10 PM	03/01/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+03/02/16	08:50 AM	03/02/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+03/02/16	09:50 AM	03/02/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/02/16	10:30 AM	03/02/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+03/02/16	12:10 PM	03/02/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+03/02/16	01:10 PM	03/02/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+03/02/16	02:10 PM	03/02/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+03/03/16	08:50 AM	03/03/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+03/03/16	09:10 AM	03/03/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/03/16	09:50 AM	03/03/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/03/16	10:30 AM	03/03/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+03/03/16	12:10 PM	03/03/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+03/03/16	12:50 PM	03/03/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+03/04/16	08:50 AM	03/04/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+03/04/16	09:30 AM	03/04/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+03/04/16	10:50 AM	03/04/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/04/16	12:10 PM	03/04/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+03/04/16	12:50 PM	03/04/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+03/04/16	01:30 PM	03/04/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/07/16	08:50 AM	03/07/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+03/07/16	09:50 AM	03/07/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+03/07/16	10:30 AM	03/07/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+03/07/16	12:10 PM	03/07/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+03/07/16	12:50 PM	03/07/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+03/07/16	01:30 PM	03/07/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+03/07/16	02:10 PM	03/07/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+03/08/16	08:50 AM	03/08/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/08/16	09:30 AM	03/08/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+03/08/16	10:10 AM	03/08/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+03/08/16	10:50 AM	03/08/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+03/08/16	12:10 PM	03/08/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+03/08/16	01:10 PM	03/08/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+03/08/16	02:10 PM	03/08/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+03/09/16	08:50 AM	03/09/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+03/09/16	09:50 AM	03/09/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/09/16	10:30 AM	03/09/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+03/09/16	12:10 PM	03/09/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+03/09/16	01:10 PM	03/09/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+03/09/16	02:10 PM	03/09/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+03/10/16	08:50 AM	03/10/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+03/10/16	09:10 AM	03/10/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/10/16	09:50 AM	03/10/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/10/16	10:30 AM	03/10/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+03/10/16	12:10 PM	03/10/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+03/10/16	12:50 PM	03/10/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+03/14/16	08:50 AM	03/14/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+03/14/16	09:30 AM	03/14/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+03/14/16	10:50 AM	03/14/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/14/16	12:10 PM	03/14/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+03/14/16	12:50 PM	03/14/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+03/14/16	01:30 PM	03/14/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/15/16	08:50 AM	03/15/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+03/15/16	09:50 AM	03/15/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+03/15/16	10:30 AM	03/15/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+03/15/16	12:10 PM	03/15/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+03/15/16	12:50 PM	03/15/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+03/15/16	01:30 PM	03/15/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+03/15/16	02:10 PM	03/15/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+03/16/16	08:50 AM	03/16/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/16/16	09:30 AM	03/16/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+03/16/16	10:10 AM	03/16/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+03/16/16	10:50 AM	03/16/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+03/16/16	12:10 PM	03/16/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+03/16/16	01:10 PM	03/16/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+03/16/16	02:10 PM	03/16/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+03/18/16	08:50 AM	03/18/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+03/18/16	09:50 AM	03/18/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/18/16	10:30 AM	03/18/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+03/18/16	12:10 PM	03/18/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+03/18/16	01:10 PM	03/18/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+03/18/16	02:10 PM	03/18/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+03/21/16	08:50 AM	03/21/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+03/21/16	09:10 AM	03/21/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/21/16	09:50 AM	03/21/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/21/16	10:30 AM	03/21/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+03/21/16	12:10 PM	03/21/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+03/21/16	12:50 PM	03/21/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+03/22/16	08:50 AM	03/22/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+03/22/16	09:30 AM	03/22/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+03/22/16	10:50 AM	03/22/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+03/22/16	12:10 PM	03/22/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+03/22/16	12:50 PM	03/22/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+03/22/16	01:30 PM	03/22/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+03/23/16	08:50 AM	03/23/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+03/23/16	09:50 AM	03/23/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+03/23/16	10:30 AM	03/23/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+03/23/16	12:10 PM	03/23/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+03/23/16	12:50 PM	03/23/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+03/23/16	01:30 PM	03/23/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+03/23/16	02:10 PM	03/23/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+04/04/16	08:50 AM	04/04/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+04/04/16	09:50 AM	04/04/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/04/16	10:30 AM	04/04/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+04/04/16	12:10 PM	04/04/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+04/04/16	01:10 PM	04/04/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+04/04/16	02:10 PM	04/04/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+04/05/16	08:50 AM	04/05/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/05/16	09:30 AM	04/05/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+04/05/16	10:10 AM	04/05/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+04/05/16	10:50 AM	04/05/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+04/05/16	12:10 PM	04/05/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+04/05/16	01:10 PM	04/05/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+04/05/16	02:10 PM	04/05/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+04/06/16	08:50 AM	04/06/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+04/06/16	09:10 AM	04/06/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/06/16	09:50 AM	04/06/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/06/16	10:30 AM	04/06/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+04/06/16	12:10 PM	04/06/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+04/06/16	12:50 PM	04/06/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+04/07/16	08:50 AM	04/07/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+04/07/16	09:30 AM	04/07/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+04/07/16	10:50 AM	04/07/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/07/16	12:10 PM	04/07/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+04/07/16	12:50 PM	04/07/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+04/07/16	01:30 PM	04/07/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/11/16	08:50 AM	04/11/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+04/11/16	09:50 AM	04/11/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+04/11/16	10:30 AM	04/11/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+04/11/16	12:10 PM	04/11/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+04/11/16	12:50 PM	04/11/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+04/11/16	01:30 PM	04/11/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+04/11/16	02:10 PM	04/11/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+04/12/16	08:50 AM	04/12/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/12/16	09:30 AM	04/12/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+04/12/16	10:10 AM	04/12/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+04/12/16	10:50 AM	04/12/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+04/12/16	12:10 PM	04/12/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+04/12/16	01:10 PM	04/12/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+04/12/16	02:10 PM	04/12/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+04/13/16	08:50 AM	04/13/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+04/13/16	09:50 AM	04/13/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/13/16	10:30 AM	04/13/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+04/13/16	12:10 PM	04/13/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+04/13/16	01:10 PM	04/13/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+04/13/16	02:10 PM	04/13/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+04/14/16	08:50 AM	04/14/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+04/14/16	09:10 AM	04/14/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/14/16	09:50 AM	04/14/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/14/16	10:30 AM	04/14/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+04/14/16	12:10 PM	04/14/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+04/14/16	12:50 PM	04/14/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+04/15/16	08:50 AM	04/15/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+04/15/16	09:30 AM	04/15/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+04/15/16	10:50 AM	04/15/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/15/16	12:10 PM	04/15/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+04/15/16	12:50 PM	04/15/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+04/15/16	01:30 PM	04/15/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/18/16	08:50 AM	04/18/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+04/18/16	09:50 AM	04/18/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+04/18/16	10:30 AM	04/18/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+04/18/16	12:10 PM	04/18/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+04/18/16	12:50 PM	04/18/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+04/18/16	01:30 PM	04/18/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+04/18/16	02:10 PM	04/18/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+04/19/16	08:50 AM	04/19/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/19/16	09:30 AM	04/19/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+04/19/16	10:10 AM	04/19/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+04/19/16	10:50 AM	04/19/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+04/19/16	12:10 PM	04/19/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+04/19/16	01:10 PM	04/19/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+04/19/16	02:10 PM	04/19/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+04/20/16	08:50 AM	04/20/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+04/20/16	09:50 AM	04/20/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/20/16	10:30 AM	04/20/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+04/20/16	12:10 PM	04/20/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+04/20/16	01:10 PM	04/20/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+04/20/16	02:10 PM	04/20/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+04/21/16	08:50 AM	04/21/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+04/21/16	09:10 AM	04/21/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/21/16	09:50 AM	04/21/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/21/16	10:30 AM	04/21/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+04/21/16	12:10 PM	04/21/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+04/21/16	12:50 PM	04/21/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+04/25/16	08:50 AM	04/25/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+04/25/16	09:30 AM	04/25/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+04/25/16	10:50 AM	04/25/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/25/16	12:10 PM	04/25/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+04/25/16	12:50 PM	04/25/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+04/25/16	01:30 PM	04/25/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/26/16	08:50 AM	04/26/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+04/26/16	09:50 AM	04/26/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+04/26/16	10:30 AM	04/26/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+04/26/16	12:10 PM	04/26/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+04/26/16	12:50 PM	04/26/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+04/26/16	01:30 PM	04/26/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+04/26/16	02:10 PM	04/26/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+04/27/16	08:50 AM	04/27/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/27/16	09:30 AM	04/27/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+04/27/16	10:10 AM	04/27/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+04/27/16	10:50 AM	04/27/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+04/27/16	12:10 PM	04/27/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+04/27/16	01:10 PM	04/27/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+04/27/16	02:10 PM	04/27/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+04/28/16	08:50 AM	04/28/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+04/28/16	09:50 AM	04/28/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+04/28/16	10:30 AM	04/28/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+04/28/16	12:10 PM	04/28/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+04/28/16	01:10 PM	04/28/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+04/28/16	02:10 PM	04/28/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+04/29/16	08:50 AM	04/29/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+04/29/16	09:10 AM	04/29/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/29/16	09:50 AM	04/29/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+04/29/16	10:30 AM	04/29/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+04/29/16	12:10 PM	04/29/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+04/29/16	12:50 PM	04/29/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+05/02/16	08:50 AM	05/02/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+05/02/16	09:30 AM	05/02/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+05/02/16	10:50 AM	05/02/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/02/16	12:10 PM	05/02/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+05/02/16	12:50 PM	05/02/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+05/02/16	01:30 PM	05/02/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/03/16	08:50 AM	05/03/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+05/03/16	09:50 AM	05/03/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+05/03/16	10:30 AM	05/03/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+05/03/16	12:10 PM	05/03/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+05/03/16	12:50 PM	05/03/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+05/03/16	01:30 PM	05/03/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+05/03/16	02:10 PM	05/03/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+05/04/16	08:50 AM	05/04/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/04/16	09:30 AM	05/04/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+05/04/16	10:10 AM	05/04/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+05/04/16	10:50 AM	05/04/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+05/04/16	12:10 PM	05/04/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+05/04/16	01:10 PM	05/04/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+05/04/16	02:10 PM	05/04/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+05/06/16	08:50 AM	05/06/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+05/06/16	09:50 AM	05/06/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/06/16	10:30 AM	05/06/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+05/06/16	12:10 PM	05/06/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+05/06/16	01:10 PM	05/06/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+05/06/16	02:10 PM	05/06/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+05/09/16	08:50 AM	05/09/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+05/09/16	09:10 AM	05/09/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/09/16	09:50 AM	05/09/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/09/16	10:30 AM	05/09/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+05/09/16	12:10 PM	05/09/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+05/09/16	12:50 PM	05/09/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+05/10/16	08:50 AM	05/10/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+05/10/16	09:30 AM	05/10/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+05/10/16	10:50 AM	05/10/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/10/16	12:10 PM	05/10/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+05/10/16	12:50 PM	05/10/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+05/10/16	01:30 PM	05/10/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/11/16	08:50 AM	05/11/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+05/11/16	09:50 AM	05/11/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+05/11/16	10:30 AM	05/11/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+05/11/16	12:10 PM	05/11/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+05/11/16	12:50 PM	05/11/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+05/11/16	01:30 PM	05/11/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+05/11/16	02:10 PM	05/11/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+05/12/16	08:50 AM	05/12/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/12/16	09:30 AM	05/12/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+05/12/16	10:10 AM	05/12/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+05/12/16	10:50 AM	05/12/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+05/12/16	12:10 PM	05/12/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+05/12/16	01:10 PM	05/12/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+05/12/16	02:10 PM	05/12/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+05/13/16	08:50 AM	05/13/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+05/13/16	09:50 AM	05/13/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/13/16	10:30 AM	05/13/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+05/13/16	12:10 PM	05/13/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+05/13/16	01:10 PM	05/13/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+05/13/16	02:10 PM	05/13/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+05/16/16	08:50 AM	05/16/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+05/16/16	09:10 AM	05/16/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/16/16	09:50 AM	05/16/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/16/16	10:30 AM	05/16/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+05/16/16	12:10 PM	05/16/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+05/16/16	12:50 PM	05/16/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+05/17/16	08:50 AM	05/17/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+05/17/16	09:30 AM	05/17/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+05/17/16	10:50 AM	05/17/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/17/16	12:10 PM	05/17/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+05/17/16	12:50 PM	05/17/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+05/17/16	01:30 PM	05/17/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/18/16	08:50 AM	05/18/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+05/18/16	09:50 AM	05/18/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+05/18/16	10:30 AM	05/18/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+05/18/16	12:10 PM	05/18/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+05/18/16	12:50 PM	05/18/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+05/18/16	01:30 PM	05/18/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+05/18/16	02:10 PM	05/18/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+05/19/16	08:50 AM	05/19/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/19/16	09:30 AM	05/19/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+05/19/16	10:10 AM	05/19/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+05/19/16	10:50 AM	05/19/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+05/19/16	12:10 PM	05/19/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+05/19/16	01:10 PM	05/19/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+05/19/16	02:10 PM	05/19/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+05/20/16	08:50 AM	05/20/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+05/20/16	09:50 AM	05/20/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/20/16	10:30 AM	05/20/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+05/20/16	12:10 PM	05/20/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+05/20/16	01:10 PM	05/20/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+05/20/16	02:10 PM	05/20/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+05/23/16	08:50 AM	05/23/16	09:10 AM	Advisement (2B-1) Bonagura	407	0	0	2	WEBEIM Scheduled
+05/23/16	09:10 AM	05/23/16	09:50 AM	Amer Studies (2B) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/23/16	09:50 AM	05/23/16	10:30 AM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/23/16	10:30 AM	05/23/16	11:30 AM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+05/23/16	12:10 PM	05/23/16	12:50 PM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+05/23/16	12:50 PM	05/23/16	01:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+05/24/16	08:50 AM	05/24/16	09:30 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+05/24/16	09:30 AM	05/24/16	10:10 AM	Theology 10 (2B-1) Conti	403	0	0	2	WEBEIM Scheduled
+05/24/16	10:50 AM	05/24/16	11:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/24/16	12:10 PM	05/24/16	12:50 PM	Phys Ed 10 (2B-1) Cullen	U-GYM	0	0	2	WEBEIM Scheduled
+05/24/16	12:50 PM	05/24/16	01:30 PM	Chemistry 10 (2B) Humora	408	0	0	2	WEBEIM Scheduled
+05/24/16	01:30 PM	05/24/16	02:10 PM	English 10 (2B-1) Gallagher	301	0	0	2	WEBEIM Scheduled
+05/25/16	08:50 AM	05/25/16	09:50 AM	Amer Studies FA (2M) Miller-Lewis	Auditorium - Front	0	0	2	WEBEIM Scheduled
+05/25/16	09:50 AM	05/25/16	10:30 AM	Guidance 10 (2B-1) Dee	511	0	0	2	WEBEIM Scheduled
+05/25/16	10:30 AM	05/25/16	11:30 AM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+05/25/16	12:10 PM	05/25/16	12:50 PM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+05/25/16	12:50 PM	05/25/16	01:30 PM	US History (2B-1) Anselme	410	0	0	2	WEBEIM Scheduled
+05/25/16	01:30 PM	05/25/16	02:10 PM	Theology 10 (2B-1) Conti	417	0	0	2	WEBEIM Scheduled
+05/25/16	02:10 PM	05/25/16	02:50 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+05/26/16	08:50 AM	05/26/16	09:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/26/16	09:30 AM	05/26/16	10:10 AM	Theology 10 (2B-1) Conti	401	0	0	2	WEBEIM Scheduled
+05/26/16	10:10 AM	05/26/16	10:50 AM	Computer Technology II (2B) Amatrucola	311	0	0	2	WEBEIM Scheduled
+05/26/16	10:50 AM	05/26/16	11:30 AM	Latin II (A) Bonagura	411	0	0	2	WEBEIM Scheduled
+05/26/16	12:10 PM	05/26/16	01:10 PM	Math II (Alg 2) (2B) Davis	510	0	0	2	WEBEIM Scheduled
+05/26/16	01:10 PM	05/26/16	02:10 PM	Chemistry 10 (2B) Humora	512	0	0	2	WEBEIM Scheduled
+05/26/16	02:10 PM	05/26/16	02:50 PM	English 10 (2B-1) Gallagher	303	0	0	2	WEBEIM Scheduled
+05/27/16	08:50 AM	05/27/16	09:50 AM	Assembly (A) Teacher	Auditorium - Front	0	0	2	WEBEIM Scheduled
+05/27/16	09:50 AM	05/27/16	10:30 AM	US History (2B-1) Anselme	417	0	0	2	WEBEIM Scheduled
+05/27/16	10:30 AM	05/27/16	11:30 AM	Latin II (A) Bonagura	420	0	0	2	WEBEIM Scheduled
+05/27/16	12:10 PM	05/27/16	12:50 PM	English 10 (2B-1) Gallagher	302	0	0	2	WEBEIM Scheduled
+05/27/16	01:10 PM	05/27/16	02:10 PM	Chemistry 10 (2B) Humora	515	0	0	2	WEBEIM Scheduled
+05/27/16	02:10 PM	05/27/16	02:50 PM	Math II (Alg 2) (2B) Davis	501	0	0	2	WEBEIM Scheduled
+09/12/15		09/12/15		A Day		1	0	3	WEBEIM Scheduled
+09/13/15		09/13/15		B Day		1	0	3	WEBEIM Scheduled
+09/14/15		09/14/15		C Day		1	0	3	WEBEIM Scheduled
+09/15/15		09/15/15		D Day		1	0	3	WEBEIM Scheduled
+09/15/15		09/15/15		E Day		1	0	3	WEBEIM Scheduled
+09/19/15		09/19/15		A Day		1	0	3	WEBEIM Scheduled
+09/20/15		09/20/15		B Day		1	0	3	WEBEIM Scheduled
+09/21/15		09/21/15		C Day		1	0	3	WEBEIM Scheduled
+09/22/15		09/22/15		D Day		1	0	3	WEBEIM Scheduled
+09/26/15		09/26/15		E Day		1	0	3	WEBEIM Scheduled
+09/27/15		09/27/15		A Day		1	0	3	WEBEIM Scheduled
+09/28/15		09/28/15		B Day		1	0	3	WEBEIM Scheduled
+09/29/15		09/29/15		C Day		1	0	3	WEBEIM Scheduled
+09/30/15		09/30/15		D Day		1	0	3	WEBEIM Scheduled
+10/03/15		10/03/15		E Day		1	0	3	WEBEIM Scheduled
+10/04/15		10/04/15		A Day		1	0	3	WEBEIM Scheduled
+10/05/15		10/05/15		B Day		1	0	3	WEBEIM Scheduled
+10/06/15		10/06/15		C Day		1	0	3	WEBEIM Scheduled
+10/07/15		10/07/15		D Day		1	0	3	WEBEIM Scheduled
+10/11/15		10/11/15		E Day		1	0	3	WEBEIM Scheduled
+10/12/15		10/12/15		A Day		1	0	3	WEBEIM Scheduled
+10/13/15		10/13/15		B Day		1	0	3	WEBEIM Scheduled
+10/14/15		10/14/15		C Day		1	0	3	WEBEIM Scheduled
+10/16/15		10/16/15		D Day		1	0	3	WEBEIM Scheduled
+10/18/15		10/18/15		E Day		1	0	3	WEBEIM Scheduled
+10/20/15		10/20/15		A Day		1	0	3	WEBEIM Scheduled
+10/24/15		10/24/15		B Day		1	0	3	WEBEIM Scheduled
+10/25/15		10/25/15		C Day		1	0	3	WEBEIM Scheduled
+10/26/15		10/26/15		D Day		1	0	3	WEBEIM Scheduled
+10/27/15		10/27/15		E Day		1	0	3	WEBEIM Scheduled
+10/28/15		10/28/15		A Day		1	0	3	WEBEIM Scheduled
+11/02/15		11/02/15		B Day		1	0	3	WEBEIM Scheduled
+11/03/15		11/03/15		C Day		1	0	3	WEBEIM Scheduled
+11/04/15		11/04/15		D Day		1	0	3	WEBEIM Scheduled
+11/07/15		11/07/15		E Day		1	0	3	WEBEIM Scheduled
+11/08/15		11/08/15		A Day		1	0	3	WEBEIM Scheduled
+11/09/15		11/09/15		B Day		1	0	3	WEBEIM Scheduled
+11/10/15		11/10/15		C Day		1	0	3	WEBEIM Scheduled
+11/14/15		11/14/15		D Day		1	0	3	WEBEIM Scheduled
+11/15/15		11/15/15		E Day		1	0	3	WEBEIM Scheduled
+11/15/15		11/15/15		A Day		1	0	3	WEBEIM Scheduled
+11/16/15		11/16/15		B Day		1	0	3	WEBEIM Scheduled
+11/18/15		11/18/15		C Day		1	0	3	WEBEIM Scheduled
+11/21/15		11/21/15		D Day		1	0	3	WEBEIM Scheduled
+11/22/15		11/22/15		E Day		1	0	3	WEBEIM Scheduled
+11/23/15		11/23/15		A Day		1	0	3	WEBEIM Scheduled
+11/29/15		11/29/15		B Day		1	0	3	WEBEIM Scheduled
+11/30/15		11/30/15		C Day		1	0	3	WEBEIM Scheduled
+12/01/15		12/01/15		D Day		1	0	3	WEBEIM Scheduled
+12/02/15		12/02/15		E Day		1	0	3	WEBEIM Scheduled
+12/05/15		12/05/15		A Day		1	0	3	WEBEIM Scheduled
+12/06/15		12/06/15		B Day		1	0	3	WEBEIM Scheduled
+12/07/15		12/07/15		C Day		1	0	3	WEBEIM Scheduled
+12/09/15		12/09/15		D Day		1	0	3	WEBEIM Scheduled
+12/12/15		12/12/15		E Day		1	0	3	WEBEIM Scheduled
+12/13/15		12/13/15		A Day		1	0	3	WEBEIM Scheduled
+12/14/15		12/14/15		B Day		1	0	3	WEBEIM Scheduled
+12/15/15		12/15/15		C Day		1	0	3	WEBEIM Scheduled
+12/15/15		12/15/15		D Day		1	0	3	WEBEIM Scheduled
+12/19/15		12/19/15		E Day		1	0	3	WEBEIM Scheduled
+12/20/15		12/20/15		A Day		1	0	3	WEBEIM Scheduled
+01/03/16		01/03/16		B Day		1	0	3	WEBEIM Scheduled
+01/04/16		01/04/16		C Day		1	0	3	WEBEIM Scheduled
+01/05/16		01/05/16		D Day		1	0	3	WEBEIM Scheduled
+01/06/16		01/06/16		E Day		1	0	3	WEBEIM Scheduled
+01/10/16		01/10/16		A Day		1	0	3	WEBEIM Scheduled
+01/11/16		01/11/16		B Day		1	0	3	WEBEIM Scheduled
+01/12/16		01/12/16		C Day		1	0	3	WEBEIM Scheduled
+01/13/16		01/13/16		D Day		1	0	3	WEBEIM Scheduled
+01/16/16		01/16/16		E Day		1	0	3	WEBEIM Scheduled
+01/18/16		01/18/16		A Day		1	0	3	WEBEIM Scheduled
+01/19/16		01/19/16		B Day		1	0	3	WEBEIM Scheduled
+01/20/16		01/20/16		C Day		1	0	3	WEBEIM Scheduled
+01/23/16		01/23/16		D Day		1	0	3	WEBEIM Scheduled
+01/24/16		01/24/16		E Day		1	0	3	WEBEIM Scheduled
+01/25/16		01/25/16		A Day		1	0	3	WEBEIM Scheduled
+01/26/16		01/26/16		B Day		1	0	3	WEBEIM Scheduled
+01/27/16		01/27/16		C Day		1	0	3	WEBEIM Scheduled
+01/30/16		01/30/16		D Day		1	0	3	WEBEIM Scheduled
+01/31/16		01/31/16		E Day		1	0	3	WEBEIM Scheduled
+02/01/16		02/01/16		A Day		1	0	3	WEBEIM Scheduled
+02/02/16		02/02/16		B Day		1	0	3	WEBEIM Scheduled
+02/03/16		02/03/16		C Day		1	0	3	WEBEIM Scheduled
+02/06/16		02/06/16		D Day		1	0	3	WEBEIM Scheduled
+02/07/16		02/07/16		E Day		1	0	3	WEBEIM Scheduled
+02/08/16		02/08/16		A Day		1	0	3	WEBEIM Scheduled
+02/09/16		02/09/16		B Day		1	0	3	WEBEIM Scheduled
+02/10/16		02/10/16		C Day		1	0	3	WEBEIM Scheduled
+02/13/16		02/13/16		D Day		1	0	3	WEBEIM Scheduled
+02/14/16		02/14/16		E Day		1	0	3	WEBEIM Scheduled
+02/15/16		02/15/16		A Day		1	0	3	WEBEIM Scheduled
+02/15/16		02/15/16		B Day		1	0	3	WEBEIM Scheduled
+02/16/16		02/16/16		C Day		1	0	3	WEBEIM Scheduled
+02/27/16		02/27/16		D Day		1	0	3	WEBEIM Scheduled
+02/28/16		02/28/16		E Day		1	0	3	WEBEIM Scheduled
+03/01/16		03/01/16		A Day		1	0	3	WEBEIM Scheduled
+03/02/16		03/02/16		B Day		1	0	3	WEBEIM Scheduled
+03/03/16		03/03/16		C Day		1	0	3	WEBEIM Scheduled
+03/06/16		03/06/16		D Day		1	0	3	WEBEIM Scheduled
+03/07/16		03/07/16		E Day		1	0	3	WEBEIM Scheduled
+03/08/16		03/08/16		A Day		1	0	3	WEBEIM Scheduled
+03/09/16		03/09/16		B Day		1	0	3	WEBEIM Scheduled
+03/10/16		03/10/16		C Day		1	0	3	WEBEIM Scheduled
+03/13/16		03/13/16		D Day		1	0	3	WEBEIM Scheduled
+03/14/16		03/14/16		E Day		1	0	3	WEBEIM Scheduled
+03/15/16		03/15/16		A Day		1	0	3	WEBEIM Scheduled
+03/20/16		03/20/16		B Day		1	0	3	WEBEIM Scheduled
+03/21/16		03/21/16		C Day		1	0	3	WEBEIM Scheduled
+03/22/16		03/22/16		D Day		1	0	3	WEBEIM Scheduled
+03/23/16		03/23/16		E Day		1	0	3	WEBEIM Scheduled
+03/24/16		03/24/16		A Day		1	0	3	WEBEIM Scheduled
+03/27/16		03/27/16		B Day		1	0	3	WEBEIM Scheduled
+03/28/16		03/28/16		C Day		1	0	3	WEBEIM Scheduled
+03/29/16		03/29/16		D Day		1	0	3	WEBEIM Scheduled
+03/30/16		03/30/16		E Day		1	0	3	WEBEIM Scheduled
+03/31/16		03/31/16		A Day		1	0	3	WEBEIM Scheduled
+04/03/16		04/03/16		B Day		1	0	3	WEBEIM Scheduled
+04/04/16		04/04/16		C Day		1	0	3	WEBEIM Scheduled
+04/05/16		04/05/16		D Day		1	0	3	WEBEIM Scheduled
+04/06/16		04/06/16		E Day		1	0	3	WEBEIM Scheduled
+04/07/16		04/07/16		A Day		1	0	3	WEBEIM Scheduled
+04/10/16		04/10/16		B Day		1	0	3	WEBEIM Scheduled
+04/11/16		04/11/16		C Day		1	0	3	WEBEIM Scheduled
+04/12/16		04/12/16		D Day		1	0	3	WEBEIM Scheduled
+04/24/16		04/24/16		E Day		1	0	3	WEBEIM Scheduled
+04/25/16		04/25/16		A Day		1	0	3	WEBEIM Scheduled
+04/26/16		04/26/16		B Day		1	0	3	WEBEIM Scheduled
+04/27/16		04/27/16		C Day		1	0	3	WEBEIM Scheduled
+05/01/16		05/01/16		D Day		1	0	3	WEBEIM Scheduled
+05/02/16		05/02/16		E Day		1	0	3	WEBEIM Scheduled
+05/03/16		05/03/16		A Day		1	0	3	WEBEIM Scheduled
+05/04/16		05/04/16		B Day		1	0	3	WEBEIM Scheduled
+05/05/16		05/05/16		C Day		1	0	3	WEBEIM Scheduled
+05/08/16		05/08/16		D Day		1	0	3	WEBEIM Scheduled
+05/09/16		05/09/16		E Day		1	0	3	WEBEIM Scheduled
+05/10/16		05/10/16		A Day		1	0	3	WEBEIM Scheduled
+05/11/16		05/11/16		B Day		1	0	3	WEBEIM Scheduled
+05/12/16		05/12/16		C Day		1	0	3	WEBEIM Scheduled
+05/15/16		05/15/16		D Day		1	0	3	WEBEIM Scheduled
+05/15/16		05/15/16		E Day		1	0	3	WEBEIM Scheduled
+05/18/16		05/18/16		A Day		1	0	3	WEBEIM Scheduled
+05/19/16		05/19/16		B Day		1	0	3	WEBEIM Scheduled
+05/22/16		05/22/16		C Day		1	0	3	WEBEIM Scheduled
+05/23/16		05/23/16		D Day		1	0	3	WEBEIM Scheduled
+05/24/16		05/24/16		E Day		1	0	3	WEBEIM Scheduled
+05/26/16		05/26/16		A Day		1	0	3	WEBEIM Scheduled

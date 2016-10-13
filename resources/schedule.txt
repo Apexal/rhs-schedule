@@ -1,0 +1,955 @@
+Start Date	Start Time	End Date	End Time	Subject	Location	All day event	Reminder on/off	Show time as	Categories
+09/12/16	09:50 AM	09/12/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+09/12/16	10:50 AM	09/12/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+09/12/16	11:30 AM	09/12/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/12/16	12:50 PM	09/12/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+09/12/16	01:30 PM	09/12/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+09/12/16	02:10 PM	09/12/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+09/13/16	08:50 AM	09/13/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+09/13/16	09:10 AM	09/13/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+09/13/16	10:10 AM	09/13/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+09/13/16	11:30 AM	09/13/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+09/13/16	12:50 PM	09/13/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/13/16	01:30 PM	09/13/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+09/14/16	08:50 AM	09/14/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+09/14/16	09:30 AM	09/14/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+09/14/16	10:50 AM	09/14/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+09/14/16	11:30 AM	09/14/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/14/16	12:50 PM	09/14/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+09/14/16	01:50 PM	09/14/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+09/15/16	08:50 AM	09/15/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+09/15/16	09:30 AM	09/15/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+09/15/16	11:10 AM	09/15/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+09/15/16	12:50 PM	09/15/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+09/15/16	01:30 PM	09/15/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+09/15/16	02:10 PM	09/15/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+09/16/16	09:10 AM	09/16/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+09/16/16	10:10 AM	09/16/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+09/16/16	10:50 AM	09/16/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+09/16/16	01:50 PM	09/16/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+09/19/16	09:50 AM	09/19/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+09/19/16	10:50 AM	09/19/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+09/19/16	11:30 AM	09/19/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/19/16	12:50 PM	09/19/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+09/19/16	01:30 PM	09/19/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+09/19/16	02:10 PM	09/19/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+09/20/16	08:50 AM	09/20/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+09/20/16	09:10 AM	09/20/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+09/20/16	10:10 AM	09/20/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+09/20/16	11:30 AM	09/20/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+09/20/16	12:50 PM	09/20/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/20/16	01:30 PM	09/20/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+09/21/16	08:50 AM	09/21/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+09/21/16	09:30 AM	09/21/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+09/21/16	10:50 AM	09/21/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+09/21/16	11:30 AM	09/21/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/21/16	12:50 PM	09/21/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+09/21/16	01:50 PM	09/21/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+09/22/16	08:50 AM	09/22/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+09/22/16	09:30 AM	09/22/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+09/22/16	11:10 AM	09/22/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+09/22/16	12:50 PM	09/22/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+09/22/16	01:30 PM	09/22/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+09/22/16	02:10 PM	09/22/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+09/26/16	09:10 AM	09/26/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+09/26/16	10:10 AM	09/26/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+09/26/16	10:50 AM	09/26/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+09/26/16	01:50 PM	09/26/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+09/27/16	09:50 AM	09/27/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+09/27/16	10:50 AM	09/27/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+09/27/16	11:30 AM	09/27/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/27/16	12:50 PM	09/27/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+09/27/16	01:30 PM	09/27/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+09/27/16	02:10 PM	09/27/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+09/28/16	08:50 AM	09/28/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+09/28/16	09:10 AM	09/28/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+09/28/16	10:10 AM	09/28/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+09/28/16	11:30 AM	09/28/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+09/28/16	12:50 PM	09/28/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/28/16	01:30 PM	09/28/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+09/29/16	08:50 AM	09/29/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+09/29/16	09:30 AM	09/29/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+09/29/16	10:50 AM	09/29/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+09/29/16	11:30 AM	09/29/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+09/29/16	12:50 PM	09/29/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+09/29/16	01:50 PM	09/29/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+09/30/16	08:50 AM	09/30/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+09/30/16	09:30 AM	09/30/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+09/30/16	11:10 AM	09/30/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+09/30/16	12:50 PM	09/30/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+09/30/16	01:30 PM	09/30/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+09/30/16	02:10 PM	09/30/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+10/03/16	09:10 AM	10/03/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+10/03/16	10:10 AM	10/03/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+10/03/16	10:50 AM	10/03/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+10/03/16	01:50 PM	10/03/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/04/16	09:50 AM	10/04/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+10/04/16	10:50 AM	10/04/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+10/04/16	11:30 AM	10/04/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/04/16	12:50 PM	10/04/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+10/04/16	01:30 PM	10/04/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+10/04/16	02:10 PM	10/04/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+10/05/16	08:50 AM	10/05/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+10/05/16	09:10 AM	10/05/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+10/05/16	10:10 AM	10/05/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/05/16	11:30 AM	10/05/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+10/05/16	12:50 PM	10/05/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/05/16	01:30 PM	10/05/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+10/06/16	08:50 AM	10/06/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+10/06/16	09:30 AM	10/06/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+10/06/16	10:50 AM	10/06/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+10/06/16	11:30 AM	10/06/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/06/16	12:50 PM	10/06/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/06/16	01:50 PM	10/06/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+10/07/16	08:50 AM	10/07/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+10/07/16	09:30 AM	10/07/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+10/07/16	11:10 AM	10/07/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+10/07/16	12:50 PM	10/07/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+10/07/16	01:30 PM	10/07/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+10/07/16	02:10 PM	10/07/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+10/11/16	09:10 AM	10/11/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+10/11/16	10:10 AM	10/11/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+10/11/16	10:50 AM	10/11/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+10/11/16	01:50 PM	10/11/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/12/16	09:50 AM	10/12/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+10/12/16	10:50 AM	10/12/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+10/12/16	11:30 AM	10/12/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/12/16	12:50 PM	10/12/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+10/12/16	01:30 PM	10/12/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+10/12/16	02:10 PM	10/12/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+10/13/16	08:50 AM	10/13/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+10/13/16	09:10 AM	10/13/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+10/13/16	10:10 AM	10/13/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/13/16	11:30 AM	10/13/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+10/13/16	12:50 PM	10/13/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/13/16	01:30 PM	10/13/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+10/14/16	08:50 AM	10/14/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+10/14/16	09:30 AM	10/14/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+10/14/16	10:50 AM	10/14/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+10/14/16	11:30 AM	10/14/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/14/16	12:50 PM	10/14/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/14/16	01:50 PM	10/14/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+10/17/16	08:50 AM	10/17/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+10/17/16	09:30 AM	10/17/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+10/17/16	11:10 AM	10/17/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+10/17/16	12:50 PM	10/17/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+10/17/16	01:30 PM	10/17/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+10/17/16	02:10 PM	10/17/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+10/18/16	09:10 AM	10/18/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+10/18/16	10:10 AM	10/18/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+10/18/16	10:50 AM	10/18/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+10/18/16	01:50 PM	10/18/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/20/16	09:50 AM	10/20/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+10/20/16	10:50 AM	10/20/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+10/20/16	11:30 AM	10/20/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/20/16	12:50 PM	10/20/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+10/20/16	01:30 PM	10/20/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+10/20/16	02:10 PM	10/20/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+10/24/16	08:50 AM	10/24/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+10/24/16	09:10 AM	10/24/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+10/24/16	10:10 AM	10/24/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/24/16	11:30 AM	10/24/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+10/24/16	12:50 PM	10/24/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/24/16	01:30 PM	10/24/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+10/25/16	08:50 AM	10/25/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+10/25/16	09:30 AM	10/25/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+10/25/16	10:50 AM	10/25/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+10/25/16	11:30 AM	10/25/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/25/16	12:50 PM	10/25/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/25/16	01:50 PM	10/25/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+10/26/16	08:50 AM	10/26/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+10/26/16	09:30 AM	10/26/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+10/26/16	11:10 AM	10/26/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+10/26/16	12:50 PM	10/26/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+10/26/16	01:30 PM	10/26/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+10/26/16	02:10 PM	10/26/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+10/27/16	09:10 AM	10/27/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+10/27/16	10:10 AM	10/27/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+10/27/16	10:50 AM	10/27/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+10/27/16	01:50 PM	10/27/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+10/28/16	09:50 AM	10/28/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+10/28/16	10:50 AM	10/28/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+10/28/16	11:30 AM	10/28/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+10/28/16	12:50 PM	10/28/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+10/28/16	01:30 PM	10/28/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+10/28/16	02:10 PM	10/28/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+11/02/16	08:50 AM	11/02/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+11/02/16	09:10 AM	11/02/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+11/02/16	10:10 AM	11/02/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/02/16	11:30 AM	11/02/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+11/02/16	12:50 PM	11/02/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/02/16	01:30 PM	11/02/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+11/03/16	08:50 AM	11/03/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+11/03/16	09:30 AM	11/03/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+11/03/16	10:50 AM	11/03/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+11/03/16	11:30 AM	11/03/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/03/16	12:50 PM	11/03/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/03/16	01:50 PM	11/03/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+11/04/16	08:50 AM	11/04/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+11/04/16	09:30 AM	11/04/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+11/04/16	11:10 AM	11/04/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+11/04/16	12:50 PM	11/04/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+11/04/16	01:30 PM	11/04/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+11/04/16	02:10 PM	11/04/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+11/07/16	09:10 AM	11/07/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+11/07/16	10:10 AM	11/07/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+11/07/16	10:50 AM	11/07/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+11/07/16	01:50 PM	11/07/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/08/16	09:50 AM	11/08/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+11/08/16	10:50 AM	11/08/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+11/08/16	11:30 AM	11/08/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/08/16	12:50 PM	11/08/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+11/08/16	01:30 PM	11/08/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+11/08/16	02:10 PM	11/08/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+11/09/16	08:50 AM	11/09/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+11/09/16	09:10 AM	11/09/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+11/09/16	10:10 AM	11/09/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/09/16	11:30 AM	11/09/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+11/09/16	12:50 PM	11/09/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/09/16	01:30 PM	11/09/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+11/10/16	08:50 AM	11/10/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+11/10/16	09:30 AM	11/10/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+11/10/16	10:50 AM	11/10/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+11/10/16	11:30 AM	11/10/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/10/16	12:50 PM	11/10/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/10/16	01:50 PM	11/10/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+11/14/16	08:50 AM	11/14/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+11/14/16	09:30 AM	11/14/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+11/14/16	11:10 AM	11/14/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+11/14/16	12:50 PM	11/14/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+11/14/16	01:30 PM	11/14/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+11/14/16	02:10 PM	11/14/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+11/15/16	09:10 AM	11/15/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+11/15/16	10:10 AM	11/15/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+11/15/16	10:50 AM	11/15/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+11/15/16	01:50 PM	11/15/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/16/16	09:50 AM	11/16/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+11/16/16	10:50 AM	11/16/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+11/16/16	11:30 AM	11/16/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/16/16	12:50 PM	11/16/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+11/16/16	01:30 PM	11/16/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+11/16/16	02:10 PM	11/16/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+11/17/16	08:50 AM	11/17/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+11/17/16	09:10 AM	11/17/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+11/17/16	10:10 AM	11/17/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/17/16	11:30 AM	11/17/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+11/17/16	12:50 PM	11/17/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/17/16	01:30 PM	11/17/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+11/18/16	08:50 AM	11/18/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+11/18/16	09:30 AM	11/18/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+11/18/16	10:50 AM	11/18/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+11/18/16	11:30 AM	11/18/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/18/16	12:50 PM	11/18/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/18/16	01:50 PM	11/18/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+11/21/16	08:50 AM	11/21/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+11/21/16	09:30 AM	11/21/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+11/21/16	11:10 AM	11/21/16	12:10 PM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+11/21/16	12:50 PM	11/21/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+11/21/16	01:30 PM	11/21/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+11/21/16	02:10 PM	11/21/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+11/22/16	09:10 AM	11/22/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+11/22/16	10:10 AM	11/22/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+11/22/16	10:50 AM	11/22/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+11/22/16	01:50 PM	11/22/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/23/16	09:50 AM	11/23/16	10:50 AM	Fine Arts 11 Art Practicum (1A) Prezioso	416	0	0	2	SIS Scheduled
+11/23/16	10:50 AM	11/23/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+11/23/16	11:30 AM	11/23/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/23/16	12:50 PM	11/23/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+11/23/16	01:30 PM	11/23/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+11/23/16	02:10 PM	11/23/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+11/29/16	08:50 AM	11/29/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+11/29/16	09:10 AM	11/29/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+11/29/16	10:10 AM	11/29/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/29/16	11:30 AM	11/29/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+11/29/16	12:50 PM	11/29/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/29/16	01:30 PM	11/29/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+11/30/16	08:50 AM	11/30/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+11/30/16	09:30 AM	11/30/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+11/30/16	10:50 AM	11/30/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+11/30/16	11:30 AM	11/30/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+11/30/16	12:50 PM	11/30/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+11/30/16	01:50 PM	11/30/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+12/01/16	08:50 AM	12/01/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+12/01/16	09:30 AM	12/01/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+12/01/16	11:10 AM	12/01/16	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+12/01/16	12:50 PM	12/01/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+12/01/16	01:30 PM	12/01/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+12/01/16	02:10 PM	12/01/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+12/02/16	09:10 AM	12/02/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+12/02/16	10:10 AM	12/02/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+12/02/16	10:50 AM	12/02/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+12/02/16	01:50 PM	12/02/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+12/05/16	09:50 AM	12/05/16	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+12/05/16	10:50 AM	12/05/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+12/05/16	11:30 AM	12/05/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+12/05/16	12:50 PM	12/05/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+12/05/16	01:30 PM	12/05/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+12/05/16	02:10 PM	12/05/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+12/06/16	08:50 AM	12/06/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+12/06/16	09:10 AM	12/06/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+12/06/16	10:10 AM	12/06/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+12/06/16	11:30 AM	12/06/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+12/06/16	12:50 PM	12/06/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+12/06/16	01:30 PM	12/06/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+12/07/16	08:50 AM	12/07/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+12/07/16	09:30 AM	12/07/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+12/07/16	10:50 AM	12/07/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+12/07/16	11:30 AM	12/07/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+12/07/16	12:50 PM	12/07/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+12/07/16	01:50 PM	12/07/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+12/09/16	08:50 AM	12/09/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+12/09/16	09:30 AM	12/09/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+12/09/16	11:10 AM	12/09/16	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+12/09/16	12:50 PM	12/09/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+12/09/16	01:30 PM	12/09/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+12/09/16	02:10 PM	12/09/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+12/12/16	09:10 AM	12/12/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+12/12/16	10:10 AM	12/12/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+12/12/16	10:50 AM	12/12/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+12/12/16	01:50 PM	12/12/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+12/13/16	09:50 AM	12/13/16	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+12/13/16	10:50 AM	12/13/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+12/13/16	11:30 AM	12/13/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+12/13/16	12:50 PM	12/13/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+12/13/16	01:30 PM	12/13/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+12/13/16	02:10 PM	12/13/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+12/14/16	08:50 AM	12/14/16	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+12/14/16	09:10 AM	12/14/16	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+12/14/16	10:10 AM	12/14/16	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+12/14/16	11:30 AM	12/14/16	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+12/14/16	12:50 PM	12/14/16	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+12/14/16	01:30 PM	12/14/16	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+12/15/16	08:50 AM	12/15/16	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+12/15/16	09:30 AM	12/15/16	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+12/15/16	10:50 AM	12/15/16	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+12/15/16	11:30 AM	12/15/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+12/15/16	12:50 PM	12/15/16	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+12/15/16	01:50 PM	12/15/16	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+12/16/16	08:50 AM	12/16/16	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+12/16/16	09:30 AM	12/16/16	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+12/16/16	11:10 AM	12/16/16	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+12/16/16	12:50 PM	12/16/16	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+12/16/16	01:30 PM	12/16/16	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+12/16/16	02:10 PM	12/16/16	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+12/19/16	09:10 AM	12/19/16	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+12/19/16	10:10 AM	12/19/16	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+12/19/16	10:50 AM	12/19/16	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+12/19/16	01:50 PM	12/19/16	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+12/20/16	09:50 AM	12/20/16	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+12/20/16	10:50 AM	12/20/16	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+12/20/16	11:30 AM	12/20/16	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+12/20/16	12:50 PM	12/20/16	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+12/20/16	01:30 PM	12/20/16	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+12/20/16	02:10 PM	12/20/16	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+01/03/17	08:50 AM	01/03/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+01/03/17	09:10 AM	01/03/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+01/03/17	10:10 AM	01/03/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/03/17	11:30 AM	01/03/17	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+01/03/17	12:50 PM	01/03/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/03/17	01:30 PM	01/03/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+01/04/17	08:50 AM	01/04/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+01/04/17	09:30 AM	01/04/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+01/04/17	10:50 AM	01/04/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+01/04/17	11:30 AM	01/04/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/04/17	12:50 PM	01/04/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/04/17	01:50 PM	01/04/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+01/05/17	08:50 AM	01/05/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+01/05/17	09:30 AM	01/05/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+01/05/17	11:10 AM	01/05/17	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+01/05/17	12:50 PM	01/05/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+01/05/17	01:30 PM	01/05/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+01/05/17	02:10 PM	01/05/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+01/06/17	09:10 AM	01/06/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+01/06/17	10:10 AM	01/06/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+01/06/17	10:50 AM	01/06/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+01/06/17	01:50 PM	01/06/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/10/17	09:50 AM	01/10/17	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+01/10/17	10:50 AM	01/10/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+01/10/17	11:30 AM	01/10/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/10/17	12:50 PM	01/10/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+01/10/17	01:30 PM	01/10/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+01/10/17	02:10 PM	01/10/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+01/11/17	08:50 AM	01/11/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+01/11/17	09:10 AM	01/11/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+01/11/17	10:10 AM	01/11/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/11/17	11:30 AM	01/11/17	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+01/11/17	12:50 PM	01/11/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/11/17	01:30 PM	01/11/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+01/12/17	08:50 AM	01/12/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+01/12/17	09:30 AM	01/12/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+01/12/17	10:50 AM	01/12/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+01/12/17	11:30 AM	01/12/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/12/17	12:50 PM	01/12/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/12/17	01:50 PM	01/12/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+01/13/17	08:50 AM	01/13/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+01/13/17	09:30 AM	01/13/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+01/13/17	11:10 AM	01/13/17	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+01/13/17	12:50 PM	01/13/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+01/13/17	01:30 PM	01/13/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+01/13/17	02:10 PM	01/13/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+01/17/17	09:10 AM	01/17/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+01/17/17	10:10 AM	01/17/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+01/17/17	10:50 AM	01/17/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+01/17/17	01:50 PM	01/17/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/18/17	09:50 AM	01/18/17	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+01/18/17	10:50 AM	01/18/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+01/18/17	11:30 AM	01/18/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/18/17	12:50 PM	01/18/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+01/18/17	01:30 PM	01/18/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+01/18/17	02:10 PM	01/18/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+01/19/17	08:50 AM	01/19/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+01/19/17	09:10 AM	01/19/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+01/19/17	10:10 AM	01/19/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/19/17	11:30 AM	01/19/17	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+01/19/17	12:50 PM	01/19/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/19/17	01:30 PM	01/19/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+01/20/17	08:50 AM	01/20/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+01/20/17	09:30 AM	01/20/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+01/20/17	10:50 AM	01/20/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+01/20/17	11:30 AM	01/20/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/20/17	12:50 PM	01/20/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/20/17	01:50 PM	01/20/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+01/23/17	08:50 AM	01/23/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+01/23/17	09:30 AM	01/23/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+01/23/17	11:10 AM	01/23/17	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+01/23/17	12:50 PM	01/23/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+01/23/17	01:30 PM	01/23/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+01/23/17	02:10 PM	01/23/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+01/24/17	09:10 AM	01/24/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+01/24/17	10:10 AM	01/24/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+01/24/17	10:50 AM	01/24/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+01/24/17	01:50 PM	01/24/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/25/17	09:50 AM	01/25/17	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+01/25/17	10:50 AM	01/25/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+01/25/17	11:30 AM	01/25/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/25/17	12:50 PM	01/25/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+01/25/17	01:30 PM	01/25/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+01/25/17	02:10 PM	01/25/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+01/26/17	08:50 AM	01/26/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+01/26/17	09:10 AM	01/26/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+01/26/17	10:10 AM	01/26/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/26/17	11:30 AM	01/26/17	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+01/26/17	12:50 PM	01/26/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/26/17	01:30 PM	01/26/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+01/27/17	08:50 AM	01/27/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+01/27/17	09:30 AM	01/27/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+01/27/17	10:50 AM	01/27/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+01/27/17	11:30 AM	01/27/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+01/27/17	12:50 PM	01/27/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+01/27/17	01:50 PM	01/27/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+01/30/17	08:50 AM	01/30/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+01/30/17	09:30 AM	01/30/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+01/30/17	11:10 AM	01/30/17	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+01/30/17	12:50 PM	01/30/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+01/30/17	01:30 PM	01/30/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+01/30/17	02:10 PM	01/30/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+01/31/17	09:10 AM	01/31/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+01/31/17	10:10 AM	01/31/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+01/31/17	10:50 AM	01/31/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+01/31/17	01:50 PM	01/31/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/01/17	09:50 AM	02/01/17	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+02/01/17	10:50 AM	02/01/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+02/01/17	11:30 AM	02/01/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/01/17	12:50 PM	02/01/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+02/01/17	01:30 PM	02/01/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+02/01/17	02:10 PM	02/01/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+02/02/17	08:50 AM	02/02/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+02/02/17	09:10 AM	02/02/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+02/02/17	10:10 AM	02/02/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/02/17	11:30 AM	02/02/17	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+02/02/17	12:50 PM	02/02/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/02/17	01:30 PM	02/02/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+02/03/17	08:50 AM	02/03/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+02/03/17	09:30 AM	02/03/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+02/03/17	10:50 AM	02/03/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+02/03/17	11:30 AM	02/03/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/03/17	12:50 PM	02/03/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/03/17	01:50 PM	02/03/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+02/06/17	08:50 AM	02/06/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+02/06/17	09:30 AM	02/06/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+02/06/17	11:10 AM	02/06/17	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+02/06/17	12:50 PM	02/06/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+02/06/17	01:30 PM	02/06/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+02/06/17	02:10 PM	02/06/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+02/07/17	09:10 AM	02/07/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+02/07/17	10:10 AM	02/07/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+02/07/17	10:50 AM	02/07/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+02/07/17	01:50 PM	02/07/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/08/17	09:50 AM	02/08/17	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+02/08/17	10:50 AM	02/08/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+02/08/17	11:30 AM	02/08/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/08/17	12:50 PM	02/08/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+02/08/17	01:30 PM	02/08/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+02/08/17	02:10 PM	02/08/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+02/09/17	08:50 AM	02/09/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+02/09/17	09:10 AM	02/09/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+02/09/17	10:10 AM	02/09/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/09/17	11:30 AM	02/09/17	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+02/09/17	12:50 PM	02/09/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/09/17	01:30 PM	02/09/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+02/10/17	08:50 AM	02/10/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+02/10/17	09:30 AM	02/10/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+02/10/17	10:50 AM	02/10/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+02/10/17	11:30 AM	02/10/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/10/17	12:50 PM	02/10/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/10/17	01:50 PM	02/10/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+02/13/17	08:50 AM	02/13/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+02/13/17	09:30 AM	02/13/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+02/13/17	11:10 AM	02/13/17	12:10 PM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+02/13/17	12:50 PM	02/13/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+02/13/17	01:30 PM	02/13/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+02/13/17	02:10 PM	02/13/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+02/14/17	09:10 AM	02/14/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+02/14/17	10:10 AM	02/14/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+02/14/17	10:50 AM	02/14/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+02/14/17	01:50 PM	02/14/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/15/17	09:50 AM	02/15/17	10:50 AM	Fine Arts 11 Art History (2A) Miller-Lewis	411	0	0	2	SIS Scheduled
+02/15/17	10:50 AM	02/15/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+02/15/17	11:30 AM	02/15/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/15/17	12:50 PM	02/15/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+02/15/17	01:30 PM	02/15/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+02/15/17	02:10 PM	02/15/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+02/16/17	08:50 AM	02/16/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+02/16/17	09:10 AM	02/16/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+02/16/17	10:10 AM	02/16/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/16/17	11:30 AM	02/16/17	12:10 PM	Guidance 11 (3A-S) Skrapits	411	0	0	2	SIS Scheduled
+02/16/17	12:50 PM	02/16/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/16/17	01:30 PM	02/16/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+02/17/17	08:50 AM	02/17/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+02/17/17	09:30 AM	02/17/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+02/17/17	10:50 AM	02/17/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+02/17/17	11:30 AM	02/17/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+02/17/17	12:50 PM	02/17/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+02/17/17	01:50 PM	02/17/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+02/27/17	08:50 AM	02/27/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+02/27/17	09:30 AM	02/27/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+02/27/17	11:10 AM	02/27/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+02/27/17	12:50 PM	02/27/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+02/27/17	01:30 PM	02/27/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+02/27/17	02:10 PM	02/27/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+02/28/17	09:10 AM	02/28/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+02/28/17	10:10 AM	02/28/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+02/28/17	10:50 AM	02/28/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+02/28/17	01:50 PM	02/28/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/01/17	09:50 AM	03/01/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/01/17	10:50 AM	03/01/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+03/01/17	11:30 AM	03/01/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/01/17	12:50 PM	03/01/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+03/01/17	01:30 PM	03/01/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+03/01/17	02:10 PM	03/01/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+03/02/17	08:50 AM	03/02/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+03/02/17	09:10 AM	03/02/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+03/02/17	10:10 AM	03/02/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/02/17	12:50 PM	03/02/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/02/17	01:30 PM	03/02/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+03/03/17	08:50 AM	03/03/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+03/03/17	09:30 AM	03/03/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+03/03/17	10:50 AM	03/03/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+03/03/17	11:30 AM	03/03/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/03/17	12:50 PM	03/03/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/03/17	01:50 PM	03/03/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+03/06/17	08:50 AM	03/06/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+03/06/17	09:30 AM	03/06/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+03/06/17	11:10 AM	03/06/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/06/17	12:50 PM	03/06/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+03/06/17	01:30 PM	03/06/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+03/06/17	02:10 PM	03/06/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+03/07/17	09:10 AM	03/07/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+03/07/17	10:10 AM	03/07/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+03/07/17	10:50 AM	03/07/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+03/07/17	01:50 PM	03/07/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/08/17	09:50 AM	03/08/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/08/17	10:50 AM	03/08/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+03/08/17	11:30 AM	03/08/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/08/17	12:50 PM	03/08/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+03/08/17	01:30 PM	03/08/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+03/08/17	02:10 PM	03/08/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+03/09/17	08:50 AM	03/09/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+03/09/17	09:10 AM	03/09/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+03/09/17	10:10 AM	03/09/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/09/17	12:50 PM	03/09/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/09/17	01:30 PM	03/09/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+03/10/17	08:50 AM	03/10/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+03/10/17	09:30 AM	03/10/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+03/10/17	10:50 AM	03/10/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+03/10/17	11:30 AM	03/10/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/10/17	12:50 PM	03/10/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/10/17	01:50 PM	03/10/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+03/13/17	08:50 AM	03/13/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+03/13/17	09:30 AM	03/13/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+03/13/17	11:10 AM	03/13/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/13/17	12:50 PM	03/13/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+03/13/17	01:30 PM	03/13/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+03/13/17	02:10 PM	03/13/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+03/14/17	09:10 AM	03/14/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+03/14/17	10:10 AM	03/14/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+03/14/17	10:50 AM	03/14/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+03/14/17	01:50 PM	03/14/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/15/17	09:50 AM	03/15/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/15/17	10:50 AM	03/15/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+03/15/17	11:30 AM	03/15/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/15/17	12:50 PM	03/15/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+03/15/17	01:30 PM	03/15/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+03/15/17	02:10 PM	03/15/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+03/20/17	08:50 AM	03/20/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+03/20/17	09:10 AM	03/20/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+03/20/17	10:10 AM	03/20/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/20/17	12:50 PM	03/20/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/20/17	01:30 PM	03/20/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+03/21/17	08:50 AM	03/21/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+03/21/17	09:30 AM	03/21/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+03/21/17	10:50 AM	03/21/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+03/21/17	11:30 AM	03/21/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/21/17	12:50 PM	03/21/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/21/17	01:50 PM	03/21/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+03/22/17	08:50 AM	03/22/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+03/22/17	09:30 AM	03/22/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+03/22/17	11:10 AM	03/22/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/22/17	12:50 PM	03/22/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+03/22/17	01:30 PM	03/22/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+03/22/17	02:10 PM	03/22/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+03/23/17	09:10 AM	03/23/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+03/23/17	10:10 AM	03/23/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+03/23/17	10:50 AM	03/23/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+03/23/17	01:50 PM	03/23/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/24/17	09:50 AM	03/24/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/24/17	10:50 AM	03/24/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+03/24/17	11:30 AM	03/24/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/24/17	12:50 PM	03/24/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+03/24/17	01:30 PM	03/24/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+03/24/17	02:10 PM	03/24/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+03/27/17	08:50 AM	03/27/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+03/27/17	09:10 AM	03/27/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+03/27/17	10:10 AM	03/27/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/27/17	12:50 PM	03/27/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/27/17	01:30 PM	03/27/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+03/28/17	08:50 AM	03/28/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+03/28/17	09:30 AM	03/28/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+03/28/17	10:50 AM	03/28/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+03/28/17	11:30 AM	03/28/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/28/17	12:50 PM	03/28/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/28/17	01:50 PM	03/28/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+03/29/17	08:50 AM	03/29/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+03/29/17	09:30 AM	03/29/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+03/29/17	11:10 AM	03/29/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/29/17	12:50 PM	03/29/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+03/29/17	01:30 PM	03/29/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+03/29/17	02:10 PM	03/29/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+03/30/17	09:10 AM	03/30/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+03/30/17	10:10 AM	03/30/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+03/30/17	10:50 AM	03/30/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+03/30/17	01:50 PM	03/30/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+03/31/17	09:50 AM	03/31/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+03/31/17	10:50 AM	03/31/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+03/31/17	11:30 AM	03/31/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+03/31/17	12:50 PM	03/31/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+03/31/17	01:30 PM	03/31/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+03/31/17	02:10 PM	03/31/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+04/03/17	08:50 AM	04/03/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+04/03/17	09:10 AM	04/03/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+04/03/17	10:10 AM	04/03/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+04/03/17	12:50 PM	04/03/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+04/03/17	01:30 PM	04/03/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+04/04/17	08:50 AM	04/04/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+04/04/17	09:30 AM	04/04/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+04/04/17	10:50 AM	04/04/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+04/04/17	11:30 AM	04/04/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+04/04/17	12:50 PM	04/04/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+04/04/17	01:50 PM	04/04/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+04/05/17	08:50 AM	04/05/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+04/05/17	09:30 AM	04/05/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+04/05/17	11:10 AM	04/05/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+04/05/17	12:50 PM	04/05/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+04/05/17	01:30 PM	04/05/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+04/05/17	02:10 PM	04/05/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+04/06/17	09:10 AM	04/06/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+04/06/17	10:10 AM	04/06/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+04/06/17	10:50 AM	04/06/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+04/06/17	01:50 PM	04/06/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+04/07/17	09:50 AM	04/07/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+04/07/17	10:50 AM	04/07/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+04/07/17	11:30 AM	04/07/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+04/07/17	12:50 PM	04/07/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+04/07/17	01:30 PM	04/07/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+04/07/17	02:10 PM	04/07/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+04/10/17	08:50 AM	04/10/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+04/10/17	09:10 AM	04/10/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+04/10/17	10:10 AM	04/10/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+04/10/17	12:50 PM	04/10/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+04/10/17	01:30 PM	04/10/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+04/11/17	08:50 AM	04/11/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+04/11/17	09:30 AM	04/11/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+04/11/17	10:50 AM	04/11/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+04/11/17	11:30 AM	04/11/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+04/11/17	12:50 PM	04/11/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+04/11/17	01:50 PM	04/11/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+04/12/17	08:50 AM	04/12/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+04/12/17	09:30 AM	04/12/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+04/12/17	11:10 AM	04/12/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+04/12/17	12:50 PM	04/12/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+04/12/17	01:30 PM	04/12/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+04/12/17	02:10 PM	04/12/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+04/24/17	09:10 AM	04/24/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+04/24/17	10:10 AM	04/24/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+04/24/17	10:50 AM	04/24/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+04/24/17	01:50 PM	04/24/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+04/25/17	09:50 AM	04/25/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+04/25/17	10:50 AM	04/25/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+04/25/17	11:30 AM	04/25/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+04/25/17	12:50 PM	04/25/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+04/25/17	01:30 PM	04/25/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+04/25/17	02:10 PM	04/25/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+04/26/17	08:50 AM	04/26/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+04/26/17	09:10 AM	04/26/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+04/26/17	10:10 AM	04/26/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+04/26/17	12:50 PM	04/26/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+04/26/17	01:30 PM	04/26/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+04/27/17	08:50 AM	04/27/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+04/27/17	09:30 AM	04/27/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+04/27/17	10:50 AM	04/27/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+04/27/17	11:30 AM	04/27/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+04/27/17	12:50 PM	04/27/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+04/27/17	01:50 PM	04/27/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+05/01/17	08:50 AM	05/01/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+05/01/17	09:30 AM	05/01/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+05/01/17	11:10 AM	05/01/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+05/01/17	12:50 PM	05/01/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+05/01/17	01:30 PM	05/01/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+05/01/17	02:10 PM	05/01/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+05/02/17	09:10 AM	05/02/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+05/02/17	10:10 AM	05/02/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+05/02/17	10:50 AM	05/02/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+05/02/17	01:50 PM	05/02/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/03/17	09:50 AM	05/03/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+05/03/17	10:50 AM	05/03/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+05/03/17	11:30 AM	05/03/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/03/17	12:50 PM	05/03/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+05/03/17	01:30 PM	05/03/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+05/03/17	02:10 PM	05/03/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+05/04/17	08:50 AM	05/04/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+05/04/17	09:10 AM	05/04/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+05/04/17	10:10 AM	05/04/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/04/17	12:50 PM	05/04/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/04/17	01:30 PM	05/04/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+05/05/17	08:50 AM	05/05/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+05/05/17	09:30 AM	05/05/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+05/05/17	10:50 AM	05/05/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+05/05/17	11:30 AM	05/05/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/05/17	12:50 PM	05/05/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/05/17	01:50 PM	05/05/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+05/08/17	08:50 AM	05/08/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+05/08/17	09:30 AM	05/08/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+05/08/17	11:10 AM	05/08/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+05/08/17	12:50 PM	05/08/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+05/08/17	01:30 PM	05/08/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+05/08/17	02:10 PM	05/08/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+05/09/17	09:10 AM	05/09/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+05/09/17	10:10 AM	05/09/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+05/09/17	10:50 AM	05/09/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+05/09/17	01:50 PM	05/09/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/10/17	09:50 AM	05/10/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+05/10/17	10:50 AM	05/10/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+05/10/17	11:30 AM	05/10/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/10/17	12:50 PM	05/10/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+05/10/17	01:30 PM	05/10/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+05/10/17	02:10 PM	05/10/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+05/11/17	08:50 AM	05/11/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+05/11/17	09:10 AM	05/11/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+05/11/17	10:10 AM	05/11/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/11/17	12:50 PM	05/11/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/11/17	01:30 PM	05/11/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+05/12/17	08:50 AM	05/12/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+05/12/17	09:30 AM	05/12/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+05/12/17	10:50 AM	05/12/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+05/12/17	11:30 AM	05/12/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/12/17	12:50 PM	05/12/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/12/17	01:50 PM	05/12/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+05/15/17	08:50 AM	05/15/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+05/15/17	09:30 AM	05/15/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+05/15/17	11:10 AM	05/15/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+05/15/17	12:50 PM	05/15/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+05/15/17	01:30 PM	05/15/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+05/15/17	02:10 PM	05/15/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+05/16/17	09:10 AM	05/16/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+05/16/17	10:10 AM	05/16/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+05/16/17	10:50 AM	05/16/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+05/16/17	01:50 PM	05/16/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/18/17	09:50 AM	05/18/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+05/18/17	10:50 AM	05/18/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+05/18/17	11:30 AM	05/18/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/18/17	12:50 PM	05/18/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+05/18/17	01:30 PM	05/18/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+05/18/17	02:10 PM	05/18/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+05/19/17	08:50 AM	05/19/17	09:10 AM	Advisement (3A-2) Landrein	501	0	0	2	SIS Scheduled
+05/19/17	09:10 AM	05/19/17	10:10 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+05/19/17	10:10 AM	05/19/17	11:10 AM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/19/17	12:50 PM	05/19/17	01:30 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/19/17	01:30 PM	05/19/17	02:50 PM	Phys Ed 11 (A) Cullen	U-GYM	0	0	2	SIS Scheduled
+05/22/17	08:50 AM	05/22/17	09:30 AM	Theology 11 (3A-2) Wallin	417	0	0	2	SIS Scheduled
+05/22/17	09:30 AM	05/22/17	10:10 AM	European History (3A-2) Landrein	510	0	0	2	SIS Scheduled
+05/22/17	10:50 AM	05/22/17	11:30 AM	Latin III (A) Bonagura	420	0	0	2	SIS Scheduled
+05/22/17	11:30 AM	05/22/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/22/17	12:50 PM	05/22/17	01:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/22/17	01:50 PM	05/22/17	02:50 PM	Math 11 (Pre-calc) (3C) Kiernan	512	0	0	2	SIS Scheduled
+05/23/17	08:50 AM	05/23/17	09:30 AM	Math 11 (Pre-calc) (3C) Kiernan	511	0	0	2	SIS Scheduled
+05/23/17	09:30 AM	05/23/17	10:10 AM	Physics (3A) Barona	402	0	0	2	SIS Scheduled
+05/23/17	11:10 AM	05/23/17	12:10 PM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+05/23/17	12:50 PM	05/23/17	01:30 PM	European History (3A-2) Landrein	417	0	0	2	SIS Scheduled
+05/23/17	01:30 PM	05/23/17	02:10 PM	English 11 (3A-1) Grunner	303	0	0	2	SIS Scheduled
+05/23/17	02:10 PM	05/23/17	02:50 PM	Latin III (A) Bonagura	411	0	0	2	SIS Scheduled
+05/24/17	09:10 AM	05/24/17	10:10 AM	European History (3A-2) Landrein	419	0	0	2	SIS Scheduled
+05/24/17	10:10 AM	05/24/17	10:50 AM	Latin III (A) Bonagura	402	0	0	2	SIS Scheduled
+05/24/17	10:50 AM	05/24/17	11:30 AM	Theology 11 (3A-2) Wallin	402	0	0	2	SIS Scheduled
+05/24/17	01:50 PM	05/24/17	02:50 PM	Physics (3A) Barona	514	0	0	2	SIS Scheduled
+05/26/17	09:50 AM	05/26/17	10:50 AM	Fine Arts 11 Music (3A) Peterson	413	0	0	2	SIS Scheduled
+05/26/17	10:50 AM	05/26/17	11:30 AM	European History (3A-2) Landrein	420	0	0	2	SIS Scheduled
+05/26/17	11:30 AM	05/26/17	12:10 PM	English 11 (3A-1) Grunner	312	0	0	2	SIS Scheduled
+05/26/17	12:50 PM	05/26/17	01:30 PM	Theology 11 (3A-2) Wallin	512	0	0	2	SIS Scheduled
+05/26/17	01:30 PM	05/26/17	02:10 PM	Math 11 (Pre-calc) (3C) Kiernan	501	0	0	2	SIS Scheduled
+05/26/17	02:10 PM	05/26/17	02:50 PM	Latin III (A) Bonagura	413	0	0	2	SIS Scheduled
+09/12/16		09/12/16		A Day		1	0	3	SIS Scheduled
+09/13/16		09/13/16		B Day		1	0	3	SIS Scheduled
+09/14/16		09/14/16		C Day		1	0	3	SIS Scheduled
+09/15/16		09/15/16		D Day		1	0	3	SIS Scheduled
+09/16/16		09/16/16		E Day		1	0	3	SIS Scheduled
+09/19/16		09/19/16		A Day		1	0	3	SIS Scheduled
+09/20/16		09/20/16		B Day		1	0	3	SIS Scheduled
+09/21/16		09/21/16		C Day		1	0	3	SIS Scheduled
+09/22/16		09/22/16		D Day		1	0	3	SIS Scheduled
+09/26/16		09/26/16		E Day		1	0	3	SIS Scheduled
+09/27/16		09/27/16		A Day		1	0	3	SIS Scheduled
+09/28/16		09/28/16		B Day		1	0	3	SIS Scheduled
+09/29/16		09/29/16		C Day		1	0	3	SIS Scheduled
+09/30/16		09/30/16		D Day		1	0	3	SIS Scheduled
+10/03/16		10/03/16		E Day		1	0	3	SIS Scheduled
+10/04/16		10/04/16		A Day		1	0	3	SIS Scheduled
+10/05/16		10/05/16		B Day		1	0	3	SIS Scheduled
+10/06/16		10/06/16		C Day		1	0	3	SIS Scheduled
+10/07/16		10/07/16		D Day		1	0	3	SIS Scheduled
+10/11/16		10/11/16		E Day		1	0	3	SIS Scheduled
+10/12/16		10/12/16		A Day		1	0	3	SIS Scheduled
+10/13/16		10/13/16		B Day		1	0	3	SIS Scheduled
+10/14/16		10/14/16		C Day		1	0	3	SIS Scheduled
+10/17/16		10/17/16		D Day		1	0	3	SIS Scheduled
+10/18/16		10/18/16		E Day		1	0	3	SIS Scheduled
+10/20/16		10/20/16		A Day		1	0	3	SIS Scheduled
+10/24/16		10/24/16		B Day		1	0	3	SIS Scheduled
+10/25/16		10/25/16		C Day		1	0	3	SIS Scheduled
+10/26/16		10/26/16		D Day		1	0	3	SIS Scheduled
+10/27/16		10/27/16		E Day		1	0	3	SIS Scheduled
+10/28/16		10/28/16		A Day		1	0	3	SIS Scheduled
+11/02/16		11/02/16		B Day		1	0	3	SIS Scheduled
+11/03/16		11/03/16		C Day		1	0	3	SIS Scheduled
+11/04/16		11/04/16		D Day		1	0	3	SIS Scheduled
+11/07/16		11/07/16		E Day		1	0	3	SIS Scheduled
+11/08/16		11/08/16		A Day		1	0	3	SIS Scheduled
+11/09/16		11/09/16		B Day		1	0	3	SIS Scheduled
+11/10/16		11/10/16		C Day		1	0	3	SIS Scheduled
+11/14/16		11/14/16		D Day		1	0	3	SIS Scheduled
+11/15/16		11/15/16		E Day		1	0	3	SIS Scheduled
+11/16/16		11/16/16		A Day		1	0	3	SIS Scheduled
+11/17/16		11/17/16		B Day		1	0	3	SIS Scheduled
+11/18/16		11/18/16		C Day		1	0	3	SIS Scheduled
+11/21/16		11/21/16		D Day		1	0	3	SIS Scheduled
+11/22/16		11/22/16		E Day		1	0	3	SIS Scheduled
+11/23/16		11/23/16		A Day		1	0	3	SIS Scheduled
+11/29/16		11/29/16		B Day		1	0	3	SIS Scheduled
+11/30/16		11/30/16		C Day		1	0	3	SIS Scheduled
+12/01/16		12/01/16		D Day		1	0	3	SIS Scheduled
+12/02/16		12/02/16		E Day		1	0	3	SIS Scheduled
+12/05/16		12/05/16		A Day		1	0	3	SIS Scheduled
+12/06/16		12/06/16		B Day		1	0	3	SIS Scheduled
+12/07/16		12/07/16		C Day		1	0	3	SIS Scheduled
+12/09/16		12/09/16		D Day		1	0	3	SIS Scheduled
+12/12/16		12/12/16		E Day		1	0	3	SIS Scheduled
+12/13/16		12/13/16		A Day		1	0	3	SIS Scheduled
+12/14/16		12/14/16		B Day		1	0	3	SIS Scheduled
+12/15/16		12/15/16		C Day		1	0	3	SIS Scheduled
+12/16/16		12/16/16		D Day		1	0	3	SIS Scheduled
+12/19/16		12/19/16		E Day		1	0	3	SIS Scheduled
+12/20/16		12/20/16		A Day		1	0	3	SIS Scheduled
+01/03/17		01/03/17		B Day		1	0	3	SIS Scheduled
+01/04/17		01/04/17		C Day		1	0	3	SIS Scheduled
+01/05/17		01/05/17		D Day		1	0	3	SIS Scheduled
+01/06/17		01/06/17		E Day		1	0	3	SIS Scheduled
+01/10/17		01/10/17		A Day		1	0	3	SIS Scheduled
+01/11/17		01/11/17		B Day		1	0	3	SIS Scheduled
+01/12/17		01/12/17		C Day		1	0	3	SIS Scheduled
+01/13/17		01/13/17		D Day		1	0	3	SIS Scheduled
+01/17/17		01/17/17		E Day		1	0	3	SIS Scheduled
+01/18/17		01/18/17		A Day		1	0	3	SIS Scheduled
+01/19/17		01/19/17		B Day		1	0	3	SIS Scheduled
+01/20/17		01/20/17		C Day		1	0	3	SIS Scheduled
+01/23/17		01/23/17		D Day		1	0	3	SIS Scheduled
+01/24/17		01/24/17		E Day		1	0	3	SIS Scheduled
+01/25/17		01/25/17		A Day		1	0	3	SIS Scheduled
+01/26/17		01/26/17		B Day		1	0	3	SIS Scheduled
+01/27/17		01/27/17		C Day		1	0	3	SIS Scheduled
+01/30/17		01/30/17		D Day		1	0	3	SIS Scheduled
+01/31/17		01/31/17		E Day		1	0	3	SIS Scheduled
+02/01/17		02/01/17		A Day		1	0	3	SIS Scheduled
+02/02/17		02/02/17		B Day		1	0	3	SIS Scheduled
+02/03/17		02/03/17		C Day		1	0	3	SIS Scheduled
+02/06/17		02/06/17		D Day		1	0	3	SIS Scheduled
+02/07/17		02/07/17		E Day		1	0	3	SIS Scheduled
+02/08/17		02/08/17		A Day		1	0	3	SIS Scheduled
+02/09/17		02/09/17		B Day		1	0	3	SIS Scheduled
+02/10/17		02/10/17		C Day		1	0	3	SIS Scheduled
+02/13/17		02/13/17		D Day		1	0	3	SIS Scheduled
+02/14/17		02/14/17		E Day		1	0	3	SIS Scheduled
+02/15/17		02/15/17		A Day		1	0	3	SIS Scheduled
+02/16/17		02/16/17		B Day		1	0	3	SIS Scheduled
+02/17/17		02/17/17		C Day		1	0	3	SIS Scheduled
+02/27/17		02/27/17		D Day		1	0	3	SIS Scheduled
+02/28/17		02/28/17		E Day		1	0	3	SIS Scheduled
+03/01/17		03/01/17		A Day		1	0	3	SIS Scheduled
+03/02/17		03/02/17		B Day		1	0	3	SIS Scheduled
+03/03/17		03/03/17		C Day		1	0	3	SIS Scheduled
+03/06/17		03/06/17		D Day		1	0	3	SIS Scheduled
+03/07/17		03/07/17		E Day		1	0	3	SIS Scheduled
+03/08/17		03/08/17		A Day		1	0	3	SIS Scheduled
+03/09/17		03/09/17		B Day		1	0	3	SIS Scheduled
+03/10/17		03/10/17		C Day		1	0	3	SIS Scheduled
+03/13/17		03/13/17		D Day		1	0	3	SIS Scheduled
+03/14/17		03/14/17		E Day		1	0	3	SIS Scheduled
+03/15/17		03/15/17		A Day		1	0	3	SIS Scheduled
+03/20/17		03/20/17		B Day		1	0	3	SIS Scheduled
+03/21/17		03/21/17		C Day		1	0	3	SIS Scheduled
+03/22/17		03/22/17		D Day		1	0	3	SIS Scheduled
+03/23/17		03/23/17		E Day		1	0	3	SIS Scheduled
+03/24/17		03/24/17		A Day		1	0	3	SIS Scheduled
+03/27/17		03/27/17		B Day		1	0	3	SIS Scheduled
+03/28/17		03/28/17		C Day		1	0	3	SIS Scheduled
+03/29/17		03/29/17		D Day		1	0	3	SIS Scheduled
+03/30/17		03/30/17		E Day		1	0	3	SIS Scheduled
+03/31/17		03/31/17		A Day		1	0	3	SIS Scheduled
+04/03/17		04/03/17		B Day		1	0	3	SIS Scheduled
+04/04/17		04/04/17		C Day		1	0	3	SIS Scheduled
+04/05/17		04/05/17		D Day		1	0	3	SIS Scheduled
+04/06/17		04/06/17		E Day		1	0	3	SIS Scheduled
+04/07/17		04/07/17		A Day		1	0	3	SIS Scheduled
+04/10/17		04/10/17		B Day		1	0	3	SIS Scheduled
+04/11/17		04/11/17		C Day		1	0	3	SIS Scheduled
+04/12/17		04/12/17		D Day		1	0	3	SIS Scheduled
+04/24/17		04/24/17		E Day		1	0	3	SIS Scheduled
+04/25/17		04/25/17		A Day		1	0	3	SIS Scheduled
+04/26/17		04/26/17		B Day		1	0	3	SIS Scheduled
+04/27/17		04/27/17		C Day		1	0	3	SIS Scheduled
+05/01/17		05/01/17		D Day		1	0	3	SIS Scheduled
+05/02/17		05/02/17		E Day		1	0	3	SIS Scheduled
+05/03/17		05/03/17		A Day		1	0	3	SIS Scheduled
+05/04/17		05/04/17		B Day		1	0	3	SIS Scheduled
+05/05/17		05/05/17		C Day		1	0	3	SIS Scheduled
+05/08/17		05/08/17		D Day		1	0	3	SIS Scheduled
+05/09/17		05/09/17		E Day		1	0	3	SIS Scheduled
+05/10/17		05/10/17		A Day		1	0	3	SIS Scheduled
+05/11/17		05/11/17		B Day		1	0	3	SIS Scheduled
+05/12/17		05/12/17		C Day		1	0	3	SIS Scheduled
+05/15/17		05/15/17		D Day		1	0	3	SIS Scheduled
+05/16/17		05/16/17		E Day		1	0	3	SIS Scheduled
+05/18/17		05/18/17		A Day		1	0	3	SIS Scheduled
+05/19/17		05/19/17		B Day		1	0	3	SIS Scheduled
+05/22/17		05/22/17		C Day		1	0	3	SIS Scheduled
+05/23/17		05/23/17		D Day		1	0	3	SIS Scheduled
+05/24/17		05/24/17		E Day		1	0	3	SIS Scheduled
+05/26/17		05/26/17		A Day		1	0	3	SIS Scheduled
