@@ -126,9 +126,9 @@ class ScheduleSystem
     day.periods = filled
   end
 
-  def to_json
+  def to_json(path)
     puts 'Exporting schedule days to JSON'
-    File.open('resources/schedule_days.json','w') do |f|
+    File.open(path,'w') do |f|
       f.write(JSON.pretty_generate(@schedule.schedule_days))
     end
   end
