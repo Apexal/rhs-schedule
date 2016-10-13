@@ -4,8 +4,9 @@ require 'json'
 require_relative 'rhs-schedule/scheduleday'
 require_relative 'rhs-schedule/period'
 require_relative 'rhs-schedule/exports'
+require_relative 'rhs-schedule/errors'
 
-VERSION = '0.2.0'.freeze
+VERSION = '0.3.0'.freeze
 
 # 05/25/16 08:50 AM
 DATE_FORMAT = '%m/%d/%y'.freeze
@@ -30,7 +31,7 @@ class ScheduleSystem
     @classdays = []
     @schedule_days = {}
     parse
-    super(@schedule) # Initialize the exports with the parsed schedule
+    super(self) # Initialize the exports with the parsed schedule
   end
 
   # Gets the schedule day of the date passed.
@@ -64,13 +65,34 @@ class ScheduleSystem
   end
 
   private
+    def check_valid_schedule lines
+      # Check for headers
+      first_line = lines.first.strip
+      raise InvalidScheduleError, 'Correct headers are missing.' if first_line != 'Start Date	Start Time	End Date	End Time	Subject	Location	All day event	Reminder on/off	Show time as	Categories' 
+
+      # Check length of file
+      raise InvalidScheduleError, 'File has less than 200 lines.' if lines.length < 200
+
+      # Check if there are period lines and schedule day lines
+      expected = lines.length * 10 # Expected data over all split by tabs
+      actual = 0
+      lines.each { |l| actual += l.split("\t").length }
+      raise InvalidScheduleError, 'Not all lines are valid.' unless expected == actual
+      #raise InvalidScheduleError, 'Missing schedule day lines' unless lines
+
+    end
+
     # Reads the schedule text file and parses each line to decide periods and schedule days.
     def parse
       sds = [] # Schedule day lines
       ps = [] # Period lines
 
       File.open(@path, 'r') do |f|
-        f.each_line do |line|
+        lines = f.read.split("\r")
+
+        check_valid_schedule lines
+        
+        lines.each do |line|
           next if line.include? 'Start Date' or line.strip.empty?
 
           # Split the line and remove all the unnecessary values

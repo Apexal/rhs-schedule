@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 	s.name			= 'rhs-schedule'
-	s.version		= '0.2.0'
+	s.version		= '0.3.0'
 	s.date			= '2016-10-12'
 	s.summary		= 'A RegisHS schedule parser.'
 	s.description	= 'A RubyGem that parses Regis High School\'s Intranet schedule download.'
