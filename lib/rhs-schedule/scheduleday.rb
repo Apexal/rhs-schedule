@@ -9,6 +9,7 @@ class ScheduleDay
     @periods = periods
   end
 
+  # Returns short summary of schedule day, including letter, number of periods, and then a list of the periods.
   def to_s
     to_return = ["#{@schedule_day}-Day: #{@periods.length} periods"]
     @periods.each do |p|

@@ -6,7 +6,7 @@ require_relative 'rhs-schedule/period'
 require_relative 'rhs-schedule/exports'
 require_relative 'rhs-schedule/errors'
 
-VERSION = '0.5.0'.freeze
+VERSION = '0.6.0'.freeze
 
 # 05/25/16 08:50 AM
 DATE_FORMAT = '%m/%d/%y'.freeze
@@ -49,6 +49,8 @@ class ScheduleSystem
   end
 
   # Displays formatted info on the current day, including it's schedule day and classes in order.
+  #
+  # @return [ScheduleDay] The ScheduleDay object.
   def today
     #false_date = Date.strptime('05/20/16', DATE_FORMAT)
     @class_days[@schedule_days[Date.parse(Time.now.to_s)]]

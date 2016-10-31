@@ -11,8 +11,9 @@ class Period
     @location = location
   end
 
+  # Returns a short summary of the period including subject, location, and duration with times
   def to_s
-    "#{@course_title} in #{@location} for #{duration} minutes"
+    "#{@course_title} in #{@location} for #{duration} minutes (#{start_time} to #{end_time})"
   end
 
   # Returns the duration of the period in minutes
