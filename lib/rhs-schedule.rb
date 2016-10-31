@@ -6,22 +6,33 @@ require_relative 'rhs-schedule/period'
 require_relative 'rhs-schedule/exports'
 require_relative 'rhs-schedule/errors'
 
-VERSION = '0.6.0'.freeze
+VERSION = '0.7.0'.freeze
 
-# 05/25/16 08:50 AM
+# e.g. 05/25/16
 DATE_FORMAT = '%m/%d/%y'.freeze
+
+# e.g. '08:50 AM' 
 TIME_FORMAT = '%I:%M %p'.freeze
+
+# e.g. '05/25/16 08:50 AM'
 DATETIME_FORMAT = "#{DATE_FORMAT} #{TIME_FORMAT}".freeze
+
+# The list of values found in a valid schedule download that should be ignored
 EXCEPTIONS = ['0', '1', '2', '3', 'WEBEIM Scheduled', 'SIS Scheduled'].freeze
 
 class ScheduleSystem
   include Exports
 
+  # Returns an hash mapping all school days' dates to their schedule day letter
+  # @return [Hash] the date to string hash
   attr_reader :schedule_days
+
+  # Return a hash mapping schedule day letters to their corresponding ScheduleDay objects
+  # @return [Hash] the string to ScheduleDay hash
   attr_reader :class_days
 
   # Creates a new ScheduleSystem by parsing the schedule text file passed to it. 
-  # If it cannot read the file the program aborts.
+  # If it cannot read the file or it detects that the format of the file is invalid the program aborts.
   #
   # @param path [String] the path to the text file (not the folder!) 
   def initialize(path)
@@ -81,7 +92,6 @@ class ScheduleSystem
       lines.each { |l| actual += l.split("\t").length }
       raise InvalidScheduleError, 'Not all lines are valid.' unless expected == actual
       #raise InvalidScheduleError, 'Missing schedule day lines' unless lines
-
     end
 
     # Reads the schedule text file and parses each line to decide periods and schedule days.
@@ -120,7 +130,7 @@ class ScheduleSystem
       handled = [] # Holds what schedules have been made
       @schedule_days.each do |date, sd|
         next if handled.include? sd
-        lines = ps.find_all { |values| values[0].gsub(/\n/, "") == date.strftime(DATE_FORMAT) }
+        lines = ps.find_all { |values| values[0] == date.strftime(DATE_FORMAT) }
 
         next if lines.empty?
         create_class_day sd, lines

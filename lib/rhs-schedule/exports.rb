@@ -1,10 +1,9 @@
 module Exports
     def initialize(schedule)
         @schedule = schedule
-        puts 'Loaded exports'
     end
 
-    # Outputs the current schedule in JSON format to the path specified.
+    # Outputs the current schedule in JSON format to the path specified. (NOT YET IMPLEMENTED)
     def to_json(path, include_advisements=false, include_frees=false)
         puts "Not yet implemented."
     end

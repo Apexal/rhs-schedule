@@ -1,4 +1,6 @@
 class ScheduleDay
+  # Returns the letter of the schedule day for the ScheduleDay object.
+  # @return [String] the letter
   attr_reader :schedule_day
 
   attr_writer :periods
@@ -13,7 +15,7 @@ class ScheduleDay
   def to_s
     to_return = ["#{@schedule_day}-Day: #{@periods.length} periods"]
     @periods.each do |p|
-      to_return << " -#{p.to_s}"
+      to_return << " -#{p.to_s}\n"
     end
     to_return << "\n"
 
