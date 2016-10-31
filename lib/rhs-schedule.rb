@@ -6,7 +6,7 @@ require_relative 'rhs-schedule/period'
 require_relative 'rhs-schedule/exports'
 require_relative 'rhs-schedule/errors'
 
-VERSION = '0.3.0'.freeze
+VERSION = '0.5.0'.freeze
 
 # 05/25/16 08:50 AM
 DATE_FORMAT = '%m/%d/%y'.freeze
@@ -174,6 +174,4 @@ class ScheduleSystem
       filled << Period.new('Afternoon Advisement', DateTime.strptime('2:50 PM', TIME_FORMAT), DateTime.strptime('3:00 PM', TIME_FORMAT), 'Advisement')
       day.periods = filled
     end
-
-    
 end

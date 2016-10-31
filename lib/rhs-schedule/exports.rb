@@ -9,6 +9,12 @@ module Exports
         puts "Not yet implemented."
     end
 
+    # Exports the current schedule in CSV format (according to Google Calendar) to the path specified.
+    # https://support.google.com/calendar/answer/37118?hl=en
+    #
+    # @param path [String] the path to export to (not directory!)
+    # @param include_advisements [Boolean] whether or not to include AM/PM advisements in the export
+    # @param include_frees [Boolean] whether or not to include free periods in the export
     def to_csv(path, include_advisements=false, include_frees=false)
         # https://support.google.com/calendar/answer/37118?hl=en
         # The format of the file is as follows:
@@ -46,7 +52,12 @@ module Exports
         puts "CSV schedule file exported to '#{path}'"
     end
 
-    # Outputs the current schedule in TSV format in a .txt file at the specified path which can be used to import the new schedule into Outlook.
+    # Exports the current schedule in CSV format (according to MS Outlook) to the path specified.
+    # The format is the exact same as the initally downloaded schedule file.
+    #
+    # @param path [String] the path to export to (not directory!)
+    # @param include_advisements [Boolean] whether or not to include AM/PM advisements in the export
+    # @param include_frees [Boolean] whether or not to include free periods in the export
     def to_tsv(path, include_advisements=false, include_frees=false)
         # The format of the file is as follows:
         # Headers
@@ -54,7 +65,6 @@ module Exports
         # 1 line per schedule day in the school year
 
         headers = ['Start Date', 'Start Time', 'End Date', 'End Time', 'Subject', 'Location', 'All day event', 'Reminder on/off', 'Show time as', 'Categories']
-        
         
         tsv_file = File.open(path, 'w')
         tsv_file.puts(headers.join("\t"))
