@@ -108,6 +108,8 @@ class ScheduleSystem
             ps << vital
           end
         end
+
+        puts ps.count { |values| values.any? { |v| v.include? 'Practicum' } }
       end
 
       puts "Found #{ps.length} periods for #{sds.length} class days"
@@ -116,8 +118,8 @@ class ScheduleSystem
       handled = [] # Holds what schedules have been made
       @schedule_days.each do |date, sd|
         next if handled.include? sd
+        lines = ps.find_all { |values| values[0].gsub(/\n/, "") == date.strftime(DATE_FORMAT) }
 
-        lines = ps.find_all { |values| values[0] == date.strftime(DATE_FORMAT) }
         next if lines.empty?
         create_class_day sd, lines
         handled << sd
@@ -131,6 +133,7 @@ class ScheduleSystem
     end
 
     def create_class_day sd, lines
+
       periods = []
       lines.each do |values|
         # [date, start time, end time, class name, location]

@@ -30,6 +30,22 @@ class SystemTest < MiniTest::Unit::TestCase
         schedule = ScheduleSystem.new path
 
         schedule.to_tsv('exports.tsv')
+        schedule.to_csv('exports.csv')
         schedule.to_json('exports.json')
+    end
+
+    def test_schedule_day
+        puts 'Testing schedule day detection'
+        puts 'What is today\'s schedule day?'
+        sd = gets.chomp
+        sd = nil if sd.empty?
+
+        default = '/home/frank/Downloads/fmatranga18_schedule_download.txt'.freeze
+        puts "Enter path or leave empty for default ('#{default}'): "
+        path = ((entered = gets.chomp).empty? ? default : entered)
+        
+        schedule = ScheduleSystem.new path
+
+        assert_equal(sd, schedule.today, "Mismatch! Expected: #{sd} got #{schedule.today}")
     end
 end

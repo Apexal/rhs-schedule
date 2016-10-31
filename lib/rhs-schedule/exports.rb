@@ -9,6 +9,43 @@ module Exports
         puts "Not yet implemented."
     end
 
+    def to_csv(path, include_advisements=false, include_frees=false)
+        # https://support.google.com/calendar/answer/37118?hl=en
+        # The format of the file is as follows:
+        # Headers
+        # 1 line per period in the school year
+        # 1 line per schedule day in the school year
+
+        headers = ['Subject', 'Start Date', 'Start Time', 'End Date', 'End Time', 'Location', 'All Day Event']
+        
+        csv_file = File.open(path, 'w')
+        csv_file.puts(headers.join(","))
+
+        # 1 line per period in year
+        @schedule.schedule_days.each do |date, sd|
+            date_str = date.strftime(DATE_FORMAT)
+            periods = @schedule.class_days[sd].periods
+            periods = periods.select { |p| p.course_title != 'Unstructured Time' } unless include_frees
+            periods = periods.select { |p| p.course_title != 'Morning Advisement' and p.course_title != 'Afternoon Advisement' } unless include_advisements
+
+            periods.each do |p|
+                values = [p.course_title, date_str, p.start_time.strftime(TIME_FORMAT), date_str, p.end_time.strftime(TIME_FORMAT), p.location, 'False']
+                csv_file.puts(values.join(","))
+            end
+        end
+
+        @schedule.schedule_days.each do |date, sd|
+            # 05/26/17		05/26/17		A Day		1	0	3	SIS Scheduled
+            date_str = date.strftime(DATE_FORMAT)
+            values = ["#{sd} Day", date_str, '', date_str, '', '', 'True']
+            csv_file.puts(values.join(","))
+        end
+
+        csv_file.close
+
+        puts "CSV schedule file exported to '#{path}'"
+    end
+
     # Outputs the current schedule in TSV format in a .txt file at the specified path which can be used to import the new schedule into Outlook.
     def to_tsv(path, include_advisements=false, include_frees=false)
         # The format of the file is as follows:
