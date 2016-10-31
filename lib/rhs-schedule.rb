@@ -29,7 +29,7 @@ class ScheduleSystem
     abort "Cannot find schedule text file at '#{path}'. Please download it from http://intranet.regis.org/downloads/outlook_calendar_import/outlook_schedule_download.cfm." unless File.file? path
 
     @path = path
-    @class_days = []
+    @class_days = {}
     @schedule_days = {}
     parse
     super(self) # Initialize the exports with the parsed schedule
@@ -51,8 +51,7 @@ class ScheduleSystem
   # Displays formatted info on the current day, including it's schedule day and classes in order.
   def today
     #false_date = Date.strptime('05/20/16', DATE_FORMAT)
-    @class_days.find { |cd| cd.schedule_day == @schedule_days[Date.parse(Time.now.to_s)]}
-    #@class_days.find { |cd| cd.schedule_day == @schedule_days[false_date] }
+    @class_days[@schedule_days[Date.parse(Time.now.to_s)]]
   end
 
   # Outputs a JSON object of all class days and their schedule days into the given file.
@@ -95,7 +94,6 @@ class ScheduleSystem
         
         lines.each do |line|
           next if line.include? 'Start Date' or line.strip.empty?
-
           # Split the line and remove all the unnecessary values
           values = line.split("\t")
 
@@ -146,7 +144,7 @@ class ScheduleSystem
 
       day = ScheduleDay.new(sd, periods)
       fill_periods day
-      @class_days << day
+      @class_days[sd] = day
     end
 
     # Take a just created periods list and fill in the holes (lunch and frees)

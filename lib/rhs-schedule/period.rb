@@ -1,6 +1,8 @@
 class Period
   attr_reader :start_time
   attr_reader :end_time
+  attr_reader :course_title
+  attr_reader :location
 
   def initialize(course, start_time, end_time, location)
     @course_title = course
