@@ -19,4 +19,17 @@ class SystemTest < MiniTest::Unit::TestCase
         
         schedule = ScheduleSystem.new path
     end
+
+    def test_export
+        puts 'Testing exports'
+
+        default = '/home/frank/Downloads/fmatranga18_schedule_download.txt'.freeze
+        puts "Enter path or leave empty for default ('#{default}'): "
+        path = ((entered = gets.chomp).empty? ? default : entered)
+        
+        schedule = ScheduleSystem.new path
+
+        schedule.to_tsv('exports.tsv')
+        schedule.to_json('exports.json')
+    end
 end
