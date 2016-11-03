@@ -6,7 +6,7 @@ require_relative 'rhs-schedule/period'
 require_relative 'rhs-schedule/exports'
 require_relative 'rhs-schedule/errors'
 
-VERSION = '0.7.0'.freeze
+VERSION = '0.8.0'.freeze
 
 # e.g. 05/25/16
 DATE_FORMAT = '%m/%d/%y'.freeze
@@ -67,14 +67,26 @@ class ScheduleSystem
     @class_days[@schedule_days[Date.parse(Time.now.to_s)]]
   end
 
-  # Outputs a JSON object of all class days and their schedule days into the given file.
+  # Gets the current period object of the currently ongoing class (if today is a school day).
   #
-  # @param path [String] the file path
-  def to_json(path)
-    puts 'Exporting schedule days to JSON'
-    File.open(path,'w') do |f|
-      f.write(JSON.pretty_generate(@schedule.schedule_days))
+  # @return [Period, nil] the Period object of the current class or nil if not a school day or school is over
+  def current_period
+    now = DateTime.parse(Time.now.to_s)
+    #now = DateTime.strptime('12:11 PM', TIME_FORMAT)
+    if @schedule_days.key? Date.parse(Time.now.to_s)
+      morning = DateTime.strptime('08:40 AM', TIME_FORMAT)
+      afternoon = DateTime.strptime('02:50 PM', TIME_FORMAT)
+      
+      if now >= morning and now <= afternoon
+        # Search for current period
+        today.periods.each do |p|
+          return p if now >= p.start_time and now <= p.end_time
+        end
+      end
     end
+
+    # Not a school day
+    return nil
   end
 
   private
@@ -120,8 +132,6 @@ class ScheduleSystem
             ps << vital
           end
         end
-
-        puts ps.count { |values| values.any? { |v| v.include? 'Practicum' } }
       end
 
       puts "Found #{ps.length} periods for #{sds.length} class days"
@@ -145,7 +155,6 @@ class ScheduleSystem
     end
 
     def create_class_day sd, lines
-
       periods = []
       lines.each do |values|
         # [date, start time, end time, class name, location]

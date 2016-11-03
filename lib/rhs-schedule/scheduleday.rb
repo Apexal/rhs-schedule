@@ -4,6 +4,7 @@ class ScheduleDay
   attr_reader :schedule_day
 
   attr_writer :periods
+  # Gets all of the periods in this schedule day.
   attr_reader :periods
 
   def initialize(sd, periods)
@@ -15,7 +16,7 @@ class ScheduleDay
   def to_s
     to_return = ["#{@schedule_day}-Day: #{@periods.length} periods"]
     @periods.each do |p|
-      to_return << " -#{p.to_s}\n"
+      to_return << " -#{p.to_s}"
     end
     to_return << "\n"
 

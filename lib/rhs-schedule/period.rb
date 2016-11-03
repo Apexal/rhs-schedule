@@ -27,7 +27,11 @@ class Period
 
   # Returns a short summary of the period including subject, location, and duration with times
   def to_s
-    "#{@course_title} in #{@location} for #{duration} minutes (#{start_time} to #{end_time})"
+    "#{@course_title} in #{@location} for #{duration} minutes (#{start_time.strftime(TIME_FORMAT)} to #{end_time.strftime(TIME_FORMAT)})"
+  end
+
+  def long_location
+    return "Room #{@location}" if Float(@location) rescue @location
   end
 
   # Returns the duration of the period in minutes of the period
