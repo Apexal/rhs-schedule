@@ -56,3 +56,7 @@ build-iPhoneSimulator/
 bfg-1.12.13.jar
 
 exports.*
+*.tsv
+*.csv
+*.txt
+*.json

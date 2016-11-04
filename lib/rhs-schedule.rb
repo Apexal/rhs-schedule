@@ -6,7 +6,7 @@ require_relative 'rhs-schedule/period'
 require_relative 'rhs-schedule/exports'
 require_relative 'rhs-schedule/errors'
 
-VERSION = '0.8.0'.freeze
+VERSION = '0.9.0'.freeze
 
 # e.g. 05/25/16
 DATE_FORMAT = '%m/%d/%y'.freeze
@@ -35,8 +35,9 @@ class ScheduleSystem
   # If it cannot read the file or it detects that the format of the file is invalid the program aborts.
   #
   # @param path [String] the path to the text file (not the folder!) 
-  def initialize(path)
-    puts "Initializing Schedule System v#{VERSION}"
+  def initialize(path, silent=false)
+    @silent = silent
+    puts "Initializing Schedule System v#{VERSION}" unless @silent
     abort "Cannot find schedule text file at '#{path}'. Please download it from http://intranet.regis.org/downloads/outlook_calendar_import/outlook_schedule_download.cfm." unless File.file? path
 
     @path = path
@@ -61,10 +62,42 @@ class ScheduleSystem
 
   # Displays formatted info on the current day, including it's schedule day and classes in order.
   #
-  # @return [ScheduleDay] The ScheduleDay object.
+  # @return [ScheduleDay, nil] The ScheduleDay object, or nil if today is not a school day.
   def today
     #false_date = Date.strptime('05/20/16', DATE_FORMAT)
     @class_days[@schedule_days[Date.parse(Time.now.to_s)]]
+  end
+
+  # Gets the the letter of the schedule day of the date passed.
+  #
+  # @param date [String, Date, DateTime] the date
+  # @return [ScheduleDay, nil] the letter or nil if the date is not a school day
+  def get_schedule_day(date)
+    d = nil
+    if date.is_a? String
+      d = Date.strptime(date, DATE_FORMAT)
+    elsif date.is_a? DateTime
+      d = date.to_date
+    end
+
+    return @schedule_days[d]
+  end
+
+
+  # Gets the the periods and schedule day of the passed date.
+  #
+  # @param date [String, Date, DateTime]
+  # @return [ScheduleDay, nil] the ScheduleDay object or nil if the date passed is not a school day
+  def get_class_day(date)
+    d = nil
+
+    if date.is_a? String
+      d = Date.strptime(date, DATE_FORMAT)
+    elsif date.is_a? DateTime
+      d = date.to_date
+    end
+
+    return @class_days[@schedule_days[d]]
   end
 
   # Gets the current period object of the currently ongoing class (if today is a school day).
@@ -134,7 +167,7 @@ class ScheduleSystem
         end
       end
 
-      puts "Found #{ps.length} periods for #{sds.length} class days"
+      puts "Found #{ps.length} periods for #{sds.length} class days" unless @silent
 
       sds.each { |values| handle_schedule_day_line values }
       handled = [] # Holds what schedules have been made

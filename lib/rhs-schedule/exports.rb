@@ -95,4 +95,40 @@ module Exports
 
         puts "TSV schedule file exported to '#{path}'"
     end
+
+    def export_schedule_days(path, separator="\t")
+        headers = ['Date', 'Schedule Day']
+        tsv_file = File.open(path, 'w')
+        tsv_file.puts(headers.join(separator))
+        @schedule.schedule_days.each do |date, letter|
+            date_str = date.strftime(DATE_FORMAT)
+            values = [date_str, letter]
+            tsv_file.puts(values.join(separator))
+        end
+
+        tsv_file.close
+        puts "schedule days exported to '#{path}'"
+    end
+
+    def classdays_to_tsv(path, include_advisements=false, include_frees=false)
+        headers = ['Schedule Day', 'Subject', 'Start Time', 'End Time', 'Location']
+        
+        tsv_file = File.open(path, 'w')
+        tsv_file.puts(headers.join("\t"))
+
+        # 1 line per period in year
+        @schedule.class_days.each do |letter, schedule_day|
+            periods = schedule_day.periods
+            periods = periods.select { |p| p.course_title != 'Unstructured Time' } unless include_frees
+            periods = periods.select { |p| p.course_title != 'Morning Advisement' and p.course_title != 'Afternoon Advisement' } unless include_advisements
+
+            periods.each do |p|
+                values = [letter, p.course_title, p.start_time.strftime(TIME_FORMAT), p.end_time.strftime(TIME_FORMAT), p.location]
+                tsv_file.puts(values.join("\t"))
+            end
+        end
+        tsv_file.close
+
+        puts "class days TSV schedule file exported to '#{path}'"
+    end
 end

@@ -32,6 +32,8 @@ class SystemTest < MiniTest::Unit::TestCase
         schedule.to_tsv('exports.tsv')
         schedule.to_csv('exports.csv')
         schedule.to_json('exports.json')
+        schedule.classdays_to_tsv('classdays.tsv')
+        schedule.export_schedule_days('scheduledays.tsv')
     end
 
     def test_schedule_day
@@ -46,6 +48,15 @@ class SystemTest < MiniTest::Unit::TestCase
         
         schedule = ScheduleSystem.new path
 
-        assert_equal(sd, schedule.today, "Mismatch! Expected: #{sd} got #{schedule.today}")
+        assert_equal(sd, schedule.today.schedule_day, 'Mismatch in #today')
+
+        expected = 'C'
+        actual = schedule.get_schedule_day('09/14/16')
+        assert_equal(expected, actual, 'Mismatch in #get_schedule_day')
+
+        day = schedule.get_class_day('09/14/16')
+        unless day.nil?
+            puts day
+        end
     end
 end
